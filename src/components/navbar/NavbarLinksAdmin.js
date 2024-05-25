@@ -157,7 +157,6 @@ export default function HeaderLinks(props) {
                 variant='no-hover'
                 color={textColor}
                 bg='transparent'>
-                Try Horizon Free
               </Button>
             </Link>
           </Flex>
@@ -180,18 +179,7 @@ export default function HeaderLinks(props) {
 				</MenuButton>
 				<MenuList boxShadow={shadow} p="0px" mt="10px" borderRadius="20px" bg={menuBg} border="none">
 					<Flex w="100%" mb="0px">
-						<Text
-							ps="20px"
-							pt="16px"
-							pb="10px"
-							w="100%"
-							borderBottom="1px solid"
-							borderColor={borderColor}
-							fontSize="sm"
-							fontWeight="700"
-							color={textColor}>
-							👋&nbsp; Hey, Adela
-						</Text>
+				
 					</Flex>
 					<Flex flexDirection="column" p="10px">
 						<MenuItem _hover={{ bg: 'none' }} _focus={{ bg: 'none' }} borderRadius="8px" px="14px">

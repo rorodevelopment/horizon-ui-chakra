@@ -1,30 +1,56 @@
 {
   "DailySpendingAllocation": {
     "Meals": {
-      "Breakfast": "5 SGD",
-      "Lunch": "10 SGD",
-      "Dinner": "10 SGD",
-      "Snacks": "3 SGD",
-      "TotalForMeals": "28 SGD"
+      "Breakfast": {
+        "items": {
+          "FairPrice White Bread - Enriched": "0.20 SGD (1 slice)",
+          "Yakult Cultured Milk Bottle Drink - Original": "0.71 SGD (1 bottle)"
+        }
+      },
+      "Lunch": {
+        "items": {
+          "Assorted Mui Fan": "3.00 SGD",
+          "Kopi O": "1.00 SGD"
+        }
+      },
+      "Dinner": {
+        "items": {
+          "Economy Rice (2 Veg & 1 Meat)": "3.40 SGD",
+          "Teh O": "1.00 SGD"
+        }
+      },
+      "Snacks": {
+        "items": {
+          "Pasar Fresh Blueberries": "0.78 SGD (20g)"
+        }
+      },
+      "TotalForMeals": "10.09 SGD"
     },
     "Healthcare": {
-      "Medication": "2 SGD",
-      "TotalHealthcare": "2 SGD"
+      "Medication": "Optional based on specific health needs"
     },
     "Transportation": {
-      "DailyTransportation": "5 SGD"
+      "DailyTransportation": "0.46 SGD (taking public transport into account)"
     },
     "LeisureOther": {
-      "LeisureOther": "7 SGD"
+      "LeisureOther": "0.98 SGD"
     },
     "ReserveEmergency": {
-      "ReserveEmergency": "3 SGD"
+      "ReserveEmergency": "0.98 SGD"
+    },
+    "Supermarket": {
+      "items": {
+        "Toilet Paper (FairPrice Facial Tissues - Soft Pack (2ply))": "0.13 SGD",
+        "Hand Soap (FairPrice Moisturising Hand Soap Refill - Violet & Jasmine)": "0.09 SGD",
+        "Eggs (Pasar Fresh Eggs - 1 piece)": "0.12 SGD"
+      },
+      "Total": "0.34 SGD"
     },
     "Summary": {
-      "DailySpendingLimit": "45 SGD"
+      "DailySpendingLimit": "12.85 SGD"
     },
     "Note": {
-      "Notes": "This budget assumes a relatively healthy lifestyle with moderate healthcare needs given the age of 50. Choices for meals include chicken rice, wanton noodles, or similar options within the budget."
+      "Notes": "All prices are averaged based on the provided supermarket data and nearby cheap food options. Recommendations include items rich in nutrition while being budget-conscious. Consider potential medication needs not included in daily spending and adjust accordingly. Ensure that the sum of daily and monthly expenses does not exceed 500 SGD."
     }
   }
 }

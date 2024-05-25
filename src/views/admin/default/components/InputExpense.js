@@ -8,7 +8,7 @@ import {
   Button,
 } from "@chakra-ui/react";
 import Card from "components/card/Card.js";
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 
 export default function InputExpense({ updateResponses }) {
   const [age, setAge] = useState('');
@@ -16,68 +16,181 @@ export default function InputExpense({ updateResponses }) {
   const [expenses, setExpenses] = useState('');
   const [healthcare, setHealthcare] = useState('');
 
+  const [response, setResponse] = useState('');
+  const [prompt, setPrompt] = useState('');
+  const [loading, setLoading] = useState(false);
+  const [test1, setTest1] = useState(null);
+  const [test2, setTest2] = useState(null);
+
   const textColor = useColorModeValue("secondaryGray.900", "white");
 
-  const handleSubmit = () => {
-    const newResponsesData = {
-      "DailySpendingAllocation": {
-        "Meals": {
-          "Breakfast": {
-            "items": {
-              "FairPrice White Bread - Enriched": "0.20 SGD (1 slice)",
-              "Yakult Cultured Milk Bottle Drink - Original": "0.71 SGD (1 bottle)"
-            }
-          },
-          "Lunch": {
-            "items": {
-              "Assorted Mui Fan": "3.00 SGD",
-              "Kopi O": "1.00 SGD"
-            }
-          },
-          "Dinner": {
-            "items": {
-              "Economy Rice (2 Veg & 1 Meat)": "3.40 SGD",
-              "Teh O": "1.00 SGD"
-            }
-          },
-          "Snacks": {
-            "items": {
-              "Pasar Fresh Blueberries": "0.78 SGD (20g)"
-            }
-          },
-          "TotalForMeals": "10.09 SGD"
-        },
-        "Healthcare": {
-          "Medication": "Optional based on specific health needs"
-        },
-        "Transportation": {
-          "DailyTransportation": "0.46 SGD (taking public transport into account)"
-        },
-        "LeisureOther": {
-          "LeisureOther": "0.98 SGD"
-        },
-        "ReserveEmergency": {
-          "ReserveEmergency": "0.98 SGD"
-        },
-        "Supermarket": {
-          "items": {
-            "Toilet Paper (FairPrice Facial Tissues - Soft Pack (2ply))": "0.13 SGD",
-            "Hand Soap (FairPrice Moisturising Hand Soap Refill - Violet & Jasmine)": "0.09 SGD",
-            "Eggs (Pasar Fresh Eggs - 1 piece)": "0.12 SGD"
-          },
-          "Total": "0.34 SGD"
-        },
-        "Summary": {
-          "DailySpendingLimit": "12.85 SGD"
-        },
-        "Note": {
-          "Notes": "All prices are averaged based on the provided supermarket data and nearby cheap food options. Recommendations include items rich in nutrition while being budget-conscious. Consider potential medication needs not included in daily spending and adjust accordingly. Ensure that the sum of daily and monthly expenses does not exceed 500 SGD."
-        }
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response1 = await fetch('http://localhost:6969/temp.json'); // Adjust the URL to match your server's address and endpoint
+        const data1 = await response1.json();
+        setTest1(data1);
+        const response2 = await fetch('http://localhost:6969/budget_meals.json'); // Adjust the URL to match your server's address and endpoint
+        const data2 = await response2.json();
+        setTest2(data2);
+      } catch (error) {
+        console.error("Failed to fetch JSON data:", error);
       }
     };
 
-    // Update the responses data in the parent component
-    updateResponses(newResponsesData);
+    fetchData();
+  }, []);
+
+  const fetchChatCompletion = async () => {
+    setLoading(true);
+
+    const apiKey = "sk-proj-SNb71jtuaPZ3AX5KOwXcT3BlbkFJL1VIRmf1FX8rTAjqp2Wh"; // Replace with your OpenAI API key
+
+    const promptText = "Based on the following details: Age: ${age}, Income: ${income}, Monthly Expenses: ${expenses}, Healthcare: ${healthcare}";
+    setPrompt(promptText);
+
+    const data = {
+      model: "gpt-4",
+      messages: [
+        {
+          role: "system",
+          content: `I want you to act as a Financial planner. 
+            You are a financial planner for elderlies in Singapore,
+            for the dataset used whatever information you have,
+            and based on the inputs by elderlies like the age,
+            monthly spending. Accounting for their age and diseases they are prone to at their age, 
+            for example if given the age 80 he might be prone to certain diseases based on the statistics in your database and account for them during budgeting, 
+            generate a spending limit per day, 
+            make it as precise as possible up to their meals in the day.
+            Minimize the expenses, but maximizes the nutrition value.
+            Please account for this percentage
+            {
+              "FoodAndNonAlcoholicBeverages": 15.5,
+              "FoodServingServices": 14.25,
+              "ClothingAndFootwear": 3.75,
+              "Transport": 9.25,
+              "HousingAndUtilities": 15,
+              "FurnishingsEquipmentMaintenance": 7,
+              "Health": 7.75,
+              "Communication": 2.25,
+              "RecreationAndCulture": 16.50,
+              "MiscellaneousGoodsAndServices": 8.50,
+              "Others": 0.25
+            } for spendings. 
+            You are not to exceed the monthly expenses after adding up the daily expenses plus the monthly expenses.
+            Please be as precise as possible, for example giving them choices between chicken rice, wanton noodles, etc., giving them choices.
+            You will be given these inputs, their Age, their Income, their current monthly expenses, and Healthcare. 
+            You should output the spending limit per day strictly in this format after the quotation mark:
+            "
+            ----------
+            {
+              "DailySpendingAllocation": {
+                "Meals": {
+                  "Breakfast": {
+                    "items": {
+                      "item1": "SGD",
+                      "item2": "SGD"
+                    },
+                  },
+                  "Lunch": {
+                    "items": {
+                      "item1": "SGD",
+                      "item2": "SGD"
+                    },
+                  },
+                  "Dinner": {
+                    "items": {
+                      "item1": "SGD",
+                      "item2": "SGD"
+                    },
+                  },
+                  "Snacks": {
+                    "items": {
+                      "item1": "SGD",
+                      "item2": "SGD"
+                    },
+                  },
+                  "TotalForMeals": "SGD"
+                },
+                "Healthcare": {
+                  "Medication": "SGD"
+                },
+                "Transportation": {
+                  "DailyTransportation": "SGD"
+                },
+                "LeisureOther": {
+                  "LeisureOther": "SGD"
+                },
+                "ReserveEmergency": {
+                  "ReserveEmergency": "SGD"
+                },
+                "Supermarket": {
+                  "items": {
+                    "item1": "SGD",
+                    "item2": "SGD"
+                  },
+                  "Total": "SGD"
+                },
+                "Summary": {
+                  "DailySpendingLimit": "SGD"
+                },
+                "Note": {
+                  "Notes": ""
+                }
+              }
+            }
+            ----------
+            " 
+          `,
+        },
+        {
+          role: "user",
+          content: promptText,
+        },
+        {
+          role: "user",
+          content: "Here's data for the supermarket: " + JSON.stringify(test1),
+        },
+        {
+          role: "user",
+          content: "Here's data for cheap food around us: " + JSON.stringify(test2),
+        },
+        {
+          role: "user",
+          content: "Generate in-depth stating the supermarket's in-depth items based on the information I provided, put the extra information in notes",
+        },
+      ],
+    };
+
+    try {
+      const response = await fetch(
+        "https://api.openai.com/v1/chat/completions",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: 'Bearer ${apiKey}',
+          },
+          body: JSON.stringify(data),
+        }
+      );
+
+      if (!response.ok) {
+        throw new Error("Network response was not ok " + response.statusText);
+      }
+
+      const result = await response.json();
+      const dailySpendingAllocationPart = result.choices[0].message.content.split('----------')[1];
+      setResponse(dailySpendingAllocationPart);
+      setLoading(false);
+    } catch (error) {
+      console.error("Error:", error);
+      setResponse("Error fetching data");
+    }
+  };
+
+  const handleSubmit = () => {
+    fetchChatCompletion();
   };
 
   return (
@@ -123,6 +236,11 @@ export default function InputExpense({ updateResponses }) {
       <Flex alignItems='center' w='100%' mb='30px'>
         <Button variant="brand" onClick={handleSubmit}>Submit</Button>
       </Flex>
+      {loading ? (
+        <p>Loading...</p>
+      ) : (
+        <p>Response: {response}</p>
+      )}
     </Card>
   );
 }

@@ -1,0 +1,53 @@
+[
+    {
+        "name":"KOPITIAM CORNER",
+        "address":"BLK 679 JURONG WEST CENTRAL 1 #01-02",
+        "description":[
+            {
+                "item":"Shredded Chicken Hor Fun",
+                "price":"$3.00"
+            },
+            {
+                "item":"Fried Noodle With Hot Dog & Egg",
+                "price":"$2.20"
+            },
+            {
+                "item":"Assorted Mui Fan",
+                "price":"$3.00"
+            },
+            {
+                "item":"Economy Rice (2 Veg & 1 Meat)",
+                "price":"$3.40"
+            },
+            {
+                "item":"Braised Pork Rice",
+                "price":"$3.00"
+            },
+            {
+                "item":"Pork Ball Bak Kut Teh",
+                "price":"$3.50"
+            },
+            {
+                "item":"Curry Chicken Set",
+                "price":"$3.00"
+            },
+            {
+                "item":"Bee Hoon Soup with Minced Meat",
+                "price":"$3.00"
+            },
+            {
+                "item":"Chicken Karaage Rice",
+                "price":"$3.50"
+            },
+            {
+                "item":"Kopi O",
+                "price":"$1.00"
+            },
+            {
+                "item":"Teh O",
+                "price":"$1.00"
+            }
+        ],
+        "distance":"2914m"
+    }
+]

@@ -1,0 +1,2986 @@
+{
+    "Bakery": {
+        "Bakery Breakfast": [
+            {
+                "name": "Churo Butter Croissant",
+                "price": "$4.9"
+            }
+        ],
+        "Bakery Snacks": [
+            {
+                "name": "Gardenia Buns - Raisin",
+                "price": "$2.8"
+            },
+            {
+                "name": "Top One Bun - Spicy Ikan Bilis",
+                "price": "$1.3"
+            },
+            {
+                "name": "Ego Swiss Roll - Coconut Pandan",
+                "price": "$3.28"
+            }
+        ],
+        "Bakery Sweet Treats": [
+            {
+                "name": "London Roll Cream Cake - Choco",
+                "price": "$3.97"
+            },
+            {
+                "name": "Lotte Happy Promise Choco Pie",
+                "price": "$2.86"
+            },
+            {
+                "name": "Lotte Happy Promise Cream Cake - Custard",
+                "price": "$2.86"
+            },
+            {
+                "name": "London Roll Cream Cake - Strawberry",
+                "price": "$3.97"
+            },
+            {
+                "name": "Fudgee Barr Cake - Flavor Combo",
+                "price": "$3.26"
+            },
+            {
+                "name": "London Roll Cream Cake - Coconut",
+                "price": "$3.97"
+            },
+            {
+                "name": "Fudgee Barr Chocolate Cake - Chocolate Cream",
+                "price": "$3.26"
+            },
+            {
+                "name": "Apollo Layer Cake - Chocolate",
+                "price": "$3.71"
+            },
+            {
+                "name": "Cadbury Oreo Choco Pie",
+                "price": "$3.65"
+            },
+            {
+                "name": "Fudgee Barr Cake with Dark Chocolate Cream-Filled",
+                "price": "$3.26"
+            },
+            {
+                "name": "Ego Swiss Roll - Strawberry",
+                "price": "$3.28"
+            },
+            {
+                "name": "Apollo Layer Cake - Strawberry",
+                "price": "$3.71"
+            },
+            {
+                "name": "Ego Swiss Roll - Chocolate",
+                "price": "$3.28"
+            },
+            {
+                "name": "Lotte Choco Pie - Cacao",
+                "price": "$2.86"
+            },
+            {
+                "name": "Win Win Bake Story Mini Muffin - Original",
+                "price": "$3.36"
+            },
+            {
+                "name": "Win Win Bake Story Mini Cake - Kokopie",
+                "price": "$3.36"
+            },
+            {
+                "name": "Delyco Salty Mung Bean Cake [Bundle of 2]",
+                "price": "$3.43"
+            },
+            {
+                "name": "SwizzLef Swiss Roll - Coconut Flavour",
+                "price": "$3.6"
+            },
+            {
+                "name": "Phaner Chocolate Pie",
+                "price": "$4.64"
+            },
+            {
+                "name": "SwizzLef Swiss Roll - Blueberry Flavour",
+                "price": "$3.6"
+            },
+            {
+                "name": "SwizzLef Swiss Roll - Chocolote Flavour",
+                "price": "$3.6"
+            },
+            {
+                "name": "Oriental Layer Cake Chocolate Flavour",
+                "price": "$1.61"
+            },
+            {
+                "name": "win2 Bake Story Mini Egg Tart - Orange",
+                "price": "$3.3"
+            },
+            {
+                "name": "Bamboo House Cake - Peach",
+                "price": "$4.9"
+            }
+        ],
+        "Bread Slice": [
+            {
+                "name": "Gardenia Enriched White Bread",
+                "price": "$3.2"
+            },
+            {
+                "name": "Sunshine Hokkaido Milk Toast Bread",
+                "price": "$3.4"
+            },
+            {
+                "name": "Gardenia Enriched White Bread - Wholemeal (Super Soft & Fine)",
+                "price": "$3.3"
+            },
+            {
+                "name": "Gardenia Wholemeal Bread - Fine Grain",
+                "price": "$3.1"
+            },
+            {
+                "name": "Sunshine Wholemeal Bread - Ultra Fine",
+                "price": "$3.3"
+            },
+            {
+                "name": "Gardenia Loaf - California Raisin",
+                "price": "$3.9"
+            },
+            {
+                "name": "Gardenia Hokkaido Hi-Calcium Milk Bread",
+                "price": "$3.4"
+            },
+            {
+                "name": "Gardenia Enriched White Bread - Wholemeal",
+                "price": "$3"
+            },
+            {
+                "name": "Gardenia Wholemeal Extra Soft & Fine Bread",
+                "price": "$4.3"
+            },
+            {
+                "name": "Gardenia White Bread - Wholemeal (Super Soft & Fine)",
+                "price": "$4.1"
+            },
+            {
+                "name": "Sunshine Bread - Jumbo Pack Enriched Soft White",
+                "price": "$3.1"
+            },
+            {
+                "name": "Gardenia White Bread - High Fibre",
+                "price": "$2.9"
+            },
+            {
+                "name": "Sunshine Smart Carb Bread - Low G.I",
+                "price": "$4"
+            },
+            {
+                "name": "Gardenia Loaf - Nutri Multi-Grain",
+                "price": "$3.8"
+            },
+            {
+                "name": "FairPrice Bread - Wholemeal (Finegrain)",
+                "price": "$2.8"
+            },
+            {
+                "name": "Sunshine Enriched Bread - Softmeal",
+                "price": "$3.1"
+            },
+            {
+                "name": "Top One Enriched Bread - Multi-Grain",
+                "price": "$3.2"
+            }
+        ],
+        "Bread Whole": [
+            {
+                "name": "Quickbury Whole Rye Bread",
+                "price": "$4.9"
+            }
+        ],
+        "Breads": [
+            {
+                "name": "FairPrice White Bread - Enriched",
+                "price": "$1.95"
+            },
+            {
+                "name": "FairPrice Bread - Wholemeal",
+                "price": "$2.3"
+            },
+            {
+                "name": "FairPrice Bread - Wholemeal (Junior)",
+                "price": "$1.85"
+            },
+            {
+                "name": "FairPrice White Bread - High Fibre",
+                "price": "$2.5"
+            },
+            {
+                "name": "FairPrice Bread - California Raisin",
+                "price": "$3.5"
+            }
+        ],
+        "Buns & Rolls": [
+            {
+                "name": "Gardenia Buns - Hamburger",
+                "price": "$2.3"
+            },
+            {
+                "name": "Gardenia Buns - Hotdog",
+                "price": "$2.3"
+            },
+            {
+                "name": "Gardenia Wholemeal Buns - Hotdog",
+                "price": "$2.5"
+            },
+            {
+                "name": "Gardenia Wholemeal Buns - Hamburger",
+                "price": "$2.5"
+            }
+        ],
+        "Garlic Bread & Pizza Bases": [
+            {
+                "name": "Sunshine Frozen Garlic Bread - Original",
+                "price": "$2.95"
+            },
+            {
+                "name": "Sunshine Frozen Garlic Bread - Parmesan Cheese",
+                "price": "$2.95"
+            }
+        ],
+        "Wraps, Naans & Flatbreads": [
+            {
+                "name": "FairPrice Frozen Roti Prata",
+                "price": "$2.17"
+            },
+            {
+                "name": "Fairprice Wraps - Wholemeal",
+                "price": "$4.19"
+            },
+            {
+                "name": "Spring Home Roti Paratha - Plain",
+                "price": "$2.82"
+            },
+            {
+                "name": "Fairprice Spring Onion Prata",
+                "price": "$2.44"
+            },
+            {
+                "name": "FairPrice Frozen Chapatti",
+                "price": "$2.57"
+            },
+            {
+                "name": "DEEP TANDOORI NAAN",
+                "price": "$4.95"
+            }
+        ]
+    },
+    "Beauty Personal Care": {
+        "Disposable Underwear": [
+            {
+                "name": "Kotex Herbal Overnight Panties - Size M-L",
+                "price": "$3.59"
+            },
+            {
+                "name": "Kotex Herbal Overnight Panties - Size S-M",
+                "price": "$3.59"
+            },
+            {
+                "name": "Kotex Overnight Panties - Size L-XL",
+                "price": "$2.75"
+            }
+        ],
+        "Hand Soap": [
+            {
+                "name": "Kirei Kirei Anti-bacterial Hand Soap Refill - Moisturizing Peach",
+                "price": "$2.34"
+            },
+            {
+                "name": "Kirei Kirei Anti-bacterial Hand Soap Refill - Nourishing Berries",
+                "price": "$2.34"
+            },
+            {
+                "name": "FairPrice Moisturising Hand Soap Refill - Violet & Jasmine",
+                "price": "$2.75"
+            },
+            {
+                "name": "FairPrice Moisturising Hand Soap - Fresh Mint & Rosemary",
+                "price": "$3.01"
+            },
+            {
+                "name": "FairPrice Moisturising Hand Soap - Violet & Jasmine",
+                "price": "$3.01"
+            },
+            {
+                "name": "Kirei Kirei Anti-Bacterial Hand Soap Refill - Natural Citrus",
+                "price": "$2.34"
+            },
+            {
+                "name": "Kirei Kirei Anti-Bacterial Hand Soap Refill - Refreshing Grape",
+                "price": "$2.34"
+            },
+            {
+                "name": "FairPrice Soft Anti-Bacterial Hand Soap Refill - Lavender",
+                "price": "$2.95"
+            },
+            {
+                "name": "FairPrice Moisturising Hand Soap Refill - Rose Geranium",
+                "price": "$2.75"
+            }
+        ],
+        "Light Bladder Leakage Pads": [
+            {
+                "name": "Poise Liners For Bladder Leakage - Extra Long (21.5cm)",
+                "price": "$4.75"
+            },
+            {
+                "name": "Poise Liners For Bladder Leakage - Regular (19cm)",
+                "price": "$4.75"
+            },
+            {
+                "name": "Poise Pads For Bladder Leakage - Extra (31.5cm)",
+                "price": "$4.75"
+            },
+            {
+                "name": "Poise Pads For Bladder Leakage - Regular (24.8cm)",
+                "price": "$4.75"
+            },
+            {
+                "name": "Poise Pads For Bladder Leakage - Super (27.6cm)",
+                "price": "$4.75"
+            },
+            {
+                "name": "Poise Pads For Bladder Leakage - Extra Plus (36.5cm)",
+                "price": "$4.75"
+            },
+            {
+                "name": "Poise Liners For Bladder Leakage - Charcoal Extra Long",
+                "price": "$4.75"
+            },
+            {
+                "name": "Poise Charcoal Liner - Light",
+                "price": "$4.75"
+            }
+        ],
+        "Makeup Removers": [
+            {
+                "name": "FairPrice 100% Pure Cotton Bud - Zipper Bag",
+                "price": "$0.9"
+            }
+        ],
+        "Panty Liners": [
+            {
+                "name": "Kotex Breathable Fresh Liners - Unscented (Longer & Wider)",
+                "price": "$3.78"
+            },
+            {
+                "name": "Kotex Breathable Fresh Liners - Unscented (Regular)",
+                "price": "$2.9"
+            },
+            {
+                "name": "Kotex Breathable Fresh Liners - Green Tea Scented (Regular)",
+                "price": "$2.9"
+            },
+            {
+                "name": "Kotex Herbal Ultrathin Liners - Regular",
+                "price": "$3.03"
+            },
+            {
+                "name": "Kotex Herbal Ultrathin Liners - Longer & Wider",
+                "price": "$4.03"
+            },
+            {
+                "name": "Kotex Antibacterial Fresh Liners - Scented (Longer & Wider)",
+                "price": "$4.03"
+            },
+            {
+                "name": "Kotex Herbal Cool Liners - Regular",
+                "price": "$3.03"
+            },
+            {
+                "name": "Kotex Herbal Cool Liners - Longer & Wider",
+                "price": "$4.03"
+            },
+            {
+                "name": "Carefree Breathable Pantiliners - Unscented",
+                "price": "$3.13"
+            }
+        ],
+        "Sanitary Pads": [
+            {
+                "name": "Kotex Overnight Panties - M - L",
+                "price": "$2.75"
+            },
+            {
+                "name": "Kotex Overnight Panties - S - M",
+                "price": "$2.75"
+            }
+        ],
+        "Shavers": [
+            {
+                "name": "Gillette Simply Venus Disposable Razor - Basic (3 Blades)",
+                "price": "$2.55"
+            }
+        ],
+        "Shaving Foam & Gel": [
+            {
+                "name": "Gillette Foamy Shave Foam - Lemon Lime",
+                "price": "$3.53"
+            }
+        ]
+    },
+    "Beer Wine Spirits": {
+        "Beer, Wine & Spirits": [
+            {
+                "name": "Tsingtao Premium Bottle Beer - Light",
+                "price": "$4.28"
+            }
+        ],
+        "Lager & Pilsner": [
+            {
+                "name": "Anchor Can Beer - Strong Pilsner ",
+                "price": "$4.23"
+            },
+            {
+                "name": "BS Beer Premium Belgium Beer",
+                "price": "$3.72"
+            }
+        ],
+        "Shandy, Radler & Flavoured Beer": [
+            {
+                "name": "Jolly Shandy Can Drink - Original",
+                "price": "$4.34"
+            },
+            {
+                "name": "Suntory Horoyoi Shochu Cocktail Can Drink - Red Grape",
+                "price": "$4.55"
+            }
+        ]
+    },
+    "Dairy Chilled Eggs": {
+        "Beancurd & Tofu": [
+            {
+                "name": "Fortune Japanese Silken Tofu - Omega 3 DHA",
+                "price": "$1"
+            },
+            {
+                "name": "Fortune Silken Tofu - Japanese",
+                "price": "$0.95"
+            },
+            {
+                "name": "Fortune Silken Egg Tofu - Extra Smooth with Omega 3 (Tube)",
+                "price": "$1"
+            },
+            {
+                "name": "Fortune Tau Kwa - Original",
+                "price": "$1.45"
+            },
+            {
+                "name": "Fortune Tau Kwa - Original with Omega 3",
+                "price": "$1.45"
+            },
+            {
+                "name": "Fortune Chinese Tofu - Omega 3 DHA",
+                "price": "$1"
+            },
+            {
+                "name": "Fortune Silken Tofu - Extra Smooth (Box)",
+                "price": "$0.95"
+            },
+            {
+                "name": "Fortune Pasar Tau Kwa",
+                "price": "$1.45"
+            },
+            {
+                "name": "Fortune Chinese Tofu - Traditional",
+                "price": "$0.95"
+            },
+            {
+                "name": "Unicurd Tofu Puff",
+                "price": "$1.5"
+            }
+        ],
+        "Beverages": [
+            {
+                "name": "Yakult Cultured Milk Drink - Gold",
+                "price": "$3.74"
+            },
+            {
+                "name": "Marigold Power Beans Fresh Soya Milk - Reduced Sugar",
+                "price": "$2.34"
+            }
+        ],
+        "Butter": [
+            {
+                "name": "Fairprice Unsalted Butter",
+                "price": "$4.99"
+            },
+            {
+                "name": "Buttercup Luxury Spread Block - Salted",
+                "price": "$2.9"
+            }
+        ],
+        "Cultured Milk": [
+            {
+                "name": "Yakult Cultured Milk Bottle Drink - Assorted Flavours",
+                "price": "$3.53"
+            },
+            {
+                "name": "Yakult Cultured Milk Bottle Drink - Original",
+                "price": "$3.56"
+            },
+            {
+                "name": "Vitagen Cultured Milk - Less Sugar (Assorted)",
+                "price": "$3.56"
+            },
+            {
+                "name": "Yakult Cultured Milk Bottle Drink - Grape",
+                "price": "$3.56"
+            }
+        ],
+        "Fish Balls & Fish Cakes": [
+            {
+                "name": "Peng Wang Cheese Tofu",
+                "price": "$3.63"
+            },
+            {
+                "name": "DoDo Big Fish Cake - Fried",
+                "price": "$3.15"
+            },
+            {
+                "name": "BoBo Fish Ball",
+                "price": "$4.8"
+            },
+            {
+                "name": "BoBo Fish Ball",
+                "price": "$3.35"
+            }
+        ],
+        "Flavoured Milk": [
+            {
+                "name": "Meiji Low Fat Fresh Bottle Milk - Chocolate",
+                "price": "$3.53"
+            },
+            {
+                "name": "Meiji Low Fat Fresh Bottle Milk - Chocolate",
+                "price": "$1.28"
+            },
+            {
+                "name": "Farmhouse Low Fat Flavoured Milk - Dark Chocolate",
+                "price": "$3.74"
+            },
+            {
+                "name": "F&N Magnolia Low Fat Milk - Cookies and Cream",
+                "price": "$3.63"
+            },
+            {
+                "name": "F&N Magnolia Fresh Milk - Chocolate",
+                "price": "$3.63"
+            }
+        ],
+        "Flavoured Yoghurt": [
+            {
+                "name": "Meiji Flavoured Yoghurt with Nata De Coco - Kyoho Grape",
+                "price": "$1.01"
+            },
+            {
+                "name": "Meiji Low Fat Yoghurt - Mango",
+                "price": "$1.01"
+            },
+            {
+                "name": "Meiji Low Fat Yoghurt - Strawberry",
+                "price": "$1.01"
+            },
+            {
+                "name": "Meiji Low Fat Yoghurt - Mixed Berry",
+                "price": "$1.01"
+            },
+            {
+                "name": "Meiji Low Fat Yoghurt - Nata De Coco",
+                "price": "$1.01"
+            },
+            {
+                "name": "Meiji Low Fat Yoghurt - Aloe Vera",
+                "price": "$1.01"
+            },
+            {
+                "name": "Tamar Valley Dairy Greek Style Yoghurt - Raspberry",
+                "price": "$2.98"
+            },
+            {
+                "name": "Emmi Swiss Premium Low Fat Yogurt - Strawberry",
+                "price": "$1.53"
+            },
+            {
+                "name": "Emmi Swiss Premium Low Fat Yogurt - Blueberry",
+                "price": "$1.53"
+            }
+        ],
+        "Fresh Eggs": [
+            {
+                "name": "Pasar Fresh Eggs",
+                "price": "$2.9"
+            },
+            {
+                "name": "Chew's Fresh Eggs with Vitamin E",
+                "price": "$3.75"
+            },
+            {
+                "name": "Dasoon Premium Fresh Eggs",
+                "price": "$4.7"
+            },
+            {
+                "name": "N&N Big Fresh Eggs",
+                "price": "$4.55"
+            },
+            {
+                "name": "Chew's Fresh Eggs - Omega 3",
+                "price": "$4.3"
+            },
+            {
+                "name": "Seng Choon Lower Cholesterol Eggs - Carrot",
+                "price": "$4.59"
+            },
+            {
+                "name": "Pasar Fresh Eggs - Large",
+                "price": "$3.78"
+            },
+            {
+                "name": "Seng Choon Eggs - Farm Fresh",
+                "price": "$3.88"
+            },
+            {
+                "name": "Chew's Fresh Eggs - Organic Selenium",
+                "price": "$4.9"
+            },
+            {
+                "name": "Chef Quail Eggs",
+                "price": "$2.88"
+            },
+            {
+                "name": "Chew's Singapore Fresh Eggs - Omega 6",
+                "price": "$4.15"
+            },
+            {
+                "name": "Pasar Singapore Fresh Eggs",
+                "price": "$3.34"
+            },
+            {
+                "name": "Chew's Singapore Fresh Eggs - Cage Free",
+                "price": "$4.15"
+            },
+            {
+                "name": "Chew's Sakura Fresh Eggs",
+                "price": "$4.2"
+            },
+            {
+                "name": "Pasar Singapore Fresh Cage Free Eggs",
+                "price": "$3.99"
+            }
+        ],
+        "Fresh Milk": [
+            {
+                "name": "F&N Magnolia Fresh Milk",
+                "price": "$3.63"
+            },
+            {
+                "name": "Meiji Pasteurized Fresh Milk - 4.3 Deluxe",
+                "price": "$3.63"
+            },
+            {
+                "name": "Meiji Pasteurized Fresh Milk",
+                "price": "$3.53"
+            },
+            {
+                "name": "Farmhouse Milk - Fresh",
+                "price": "$3.74"
+            },
+            {
+                "name": "Marigold HL Milk - Plain",
+                "price": "$3.56"
+            },
+            {
+                "name": "Meiji Low Fat Milk - Regular",
+                "price": "$3.53"
+            },
+            {
+                "name": "Farmhouse Milk - Low Fat",
+                "price": "$3.74"
+            },
+            {
+                "name": "Meiji Fresh Milk - Regular",
+                "price": "$1.28"
+            },
+            {
+                "name": "Greenfields Fresh Milk - Regular",
+                "price": "$3.51"
+            },
+            {
+                "name": "Marigold HL Milk - Plant Sterols",
+                "price": "$3.87"
+            }
+        ],
+        "Greek Yoghurt": [
+            {
+                "name": "Tamar Valley Dairy Greek Style Yoghurt - Strawberry",
+                "price": "$2.98"
+            },
+            {
+                "name": "Tamar Valley Dairy Kids Greek Style Yoghurt - Blueberry",
+                "price": "$2.98"
+            },
+            {
+                "name": "Farmers Union Greek Style Yoghurt - Honey",
+                "price": "$3.91"
+            },
+            {
+                "name": "Tamar Valley Dairy Kids Greek Style Yoghurt - Tropical",
+                "price": "$2.98"
+            }
+        ],
+        "Ham & Salami": [
+            {
+                "name": "FairPrice Breakfast Ham",
+                "price": "$2.98"
+            }
+        ],
+        "Margarine & Spreads": [
+            {
+                "name": "Naturel Cholesterol Free Margarine - Soft",
+                "price": "$3.97"
+            }
+        ],
+        "Preserved Eggs": [
+            {
+                "name": "Chef Salted Eggs",
+                "price": "$2.4"
+            },
+            {
+                "name": "Dasoon Cooked Quail Eggs",
+                "price": "$2.52"
+            }
+        ],
+        "Sausages & Bacon": [
+            {
+                "name": "FairPrice Bacon - Streaky",
+                "price": "$4.89"
+            }
+        ],
+        "Soy Milk": [
+            {
+                "name": "F&N NutriSoy High Calcium Fresh Soya Milk - Omega (No Sugar Added)",
+                "price": "$2.98"
+            },
+            {
+                "name": "Marigold Power Beans Fresh Soya Milk - Unsweetened",
+                "price": "$2.34"
+            }
+        ],
+        "Yoghurt Drinks": [
+            {
+                "name": "Yoplait Petit Miam Yoghurt - Strawberry",
+                "price": "$1.47"
+            },
+            {
+                "name": "Yoplait Petit Miam Yoghurt - Blueberry",
+                "price": "$1.47"
+            }
+        ]
+    },
+    "Drinks": {
+        "Berry Juice": [
+            {
+                "name": "Ribena Blackcurrant Fruit Packet Drink - Less Sweet",
+                "price": "$3.83"
+            }
+        ],
+        "Carbonated Drinks": [
+            {
+                "name": "Coca-Cola Mini Can Drink - Classic",
+                "price": "$4.95"
+            },
+            {
+                "name": "Coca-Cola Mini Can Drink - Zero Sugar",
+                "price": "$4.95"
+            },
+            {
+                "name": "Coca-Cola Bottle Drink - Zero Sugar",
+                "price": "$2.8"
+            },
+            {
+                "name": "Coca-Cola Original Taste - Less Sugar",
+                "price": "$2.8"
+            },
+            {
+                "name": "Sprite Sparkling Lemon Lime Can Drink - Mini",
+                "price": "$4.95"
+            }
+        ],
+        "Chocolate & Malted": [
+            {
+                "name": "Milo Chocolate Malt UHT Packet Drink",
+                "price": "$3.74"
+            },
+            {
+                "name": "Milo Chocolate Malt Milk UHT Packet Drink",
+                "price": "$2.88"
+            },
+            {
+                "name": "Milo Chocolate Malt UHT Packet Drink - Less Sugar",
+                "price": "$3.63"
+            }
+        ],
+        "Coconut Water": [
+            {
+                "name": "UFC Refresh 100% Natural Coconut Water",
+                "price": "$3.93"
+            },
+            {
+                "name": "FairPrice 100% Coconut Water",
+                "price": "$3.56"
+            }
+        ],
+        "Condensed Milk & Creamers": [
+            {
+                "name": "Milkmaid Sweetened Condensed Milk - Full Cream (High Calcium)",
+                "price": "$2.72"
+            },
+            {
+                "name": "Carnation Evaporated Milk - Full Cream",
+                "price": "$2.34"
+            },
+            {
+                "name": "Teapot Sweetened Creamer",
+                "price": "$1.47"
+            },
+            {
+                "name": "Marigold Evaporated Creamer",
+                "price": "$2"
+            },
+            {
+                "name": "Marigold Evaporated Filled Milk",
+                "price": "$2.27"
+            }
+        ],
+        "Cooling Water": [
+            {
+                "name": "Three Legs Cooling Bottle Water",
+                "price": "$4.44"
+            }
+        ],
+        "Creamers": [
+            {
+                "name": "Milkmaid Sweetened Condensed Milk - Skimmed (Low Fat)",
+                "price": "$2.65"
+            },
+            {
+                "name": "Carnation Evaporated Milk - Low Fat",
+                "price": "$2.44"
+            }
+        ],
+        "Energy & Isotonic Drinks": [
+            {
+                "name": "100 Plus Isotonic Bottle Drink - Original",
+                "price": "$2.47"
+            },
+            {
+                "name": "100 Plus Isotonic Bottle Drink - Zero",
+                "price": "$2.47"
+            }
+        ],
+        "Flavoured UHT Milk": [
+            {
+                "name": "Dutch Lady Princess UHT Kid Milk - Chocolate",
+                "price": "$2.69"
+            }
+        ],
+        "Ice Tea": [
+            {
+                "name": "Pokka Bottle Drink - Jasmine Green Tea",
+                "price": "$2.32"
+            },
+            {
+                "name": "Pokka Packet Drink - Jasmine Green Tea",
+                "price": "$3.34"
+            },
+            {
+                "name": "Pokka Bottle Drink - Ice Lemon Tea",
+                "price": "$2.32"
+            },
+            {
+                "name": "Authentic Tea House Ayataka No Sugar Japanese Green Tea",
+                "price": "$2.35"
+            },
+            {
+                "name": "Yeo's Packet Drink - Chrysanthemum Tea (Not So Sweet)",
+                "price": "$3"
+            },
+            {
+                "name": "Pokka Bottle Drink - Oolong Tea (No Sugar Added)",
+                "price": "$2.32"
+            },
+            {
+                "name": "Pokka Bottle Drink - Peach Tea",
+                "price": "$2.32"
+            },
+            {
+                "name": "Pokka Packet Drink - Ice Lemon Tea",
+                "price": "$3.34"
+            }
+        ],
+        "Instant Coffee": [
+            {
+                "name": "Nescafe Yuan Yang Latte with Coffee",
+                "price": "$4.05"
+            },
+            {
+                "name": "Gold Kili Traditional Kopi O",
+                "price": "$2.57"
+            },
+            {
+                "name": "Nescafe Instant Singapore Kopi - Kopi-O (Gao Siew Dai)",
+                "price": "$4.49"
+            }
+        ],
+        "Soy UHT Milk": [
+            {
+                "name": "Australia's Own Organic Soy Milk - Unsweetened",
+                "price": "$4.02"
+            },
+            {
+                "name": "Vitasoy Soya Bean Packet Drink",
+                "price": "$4.22"
+            }
+        ],
+        "Sparkling Water": [
+            {
+                "name": "HSC Sparkling Oldenlandia Can Water",
+                "price": "$4.63"
+            }
+        ],
+        "UHT Milk": [
+            {
+                "name": "FairPrice UHT Milk - Full Cream",
+                "price": "$2.05"
+            },
+            {
+                "name": "Cowhead UHT Milk - Pure Milk",
+                "price": "$3"
+            },
+            {
+                "name": "FairPrice UHT Kids Full Cream Packet Milk - Fresh Milk",
+                "price": "$4.23"
+            },
+            {
+                "name": "Dutch Lady Princess UHT Kid Milk - Full Cream",
+                "price": "$2.69"
+            },
+            {
+                "name": "Marigold UHT Packet Milk - Full Cream",
+                "price": "$4.27"
+            },
+            {
+                "name": "Marigold UHT Packet Milk - Full Cream",
+                "price": "$2.92"
+            },
+            {
+                "name": "FairPrice UHT Milk - Low Fat",
+                "price": "$2.05"
+            },
+            {
+                "name": "Dutch Lady Marvel UHT Kid Milk - Full Cream",
+                "price": "$2.69"
+            },
+            {
+                "name": "Dutch Lady UHT Milk - Full Cream (Plain)",
+                "price": "$2.54"
+            },
+            {
+                "name": "Farmhouse UHT Milk - Fresh",
+                "price": "$3.07"
+            }
+        ]
+    },
+    "Food Cupboard 6": {
+        "Canned Beans": [
+            {
+                "name": "Ayam Brand Baked Beans - Tomato Sauce",
+                "price": "$1.21"
+            },
+            {
+                "name": "Heinz Beanz Baked Beans - Original",
+                "price": "$2.17"
+            },
+            {
+                "name": "Heinz Baked Beans in Tomato Sauce",
+                "price": "$1.67"
+            }
+        ],
+        "Canned Fruits & Desserts": [
+            {
+                "name": "Hosen Longan",
+                "price": "$3.22"
+            },
+            {
+                "name": "Hosen Lychee",
+                "price": "$3.23"
+            }
+        ],
+        "Canned Meat": [
+            {
+                "name": "Maling Premium Luncheon Meat - Pork",
+                "price": "$3.31"
+            },
+            {
+                "name": "Golden Bridge Pork Luncheon Meat - Original",
+                "price": "$4.58"
+            },
+            {
+                "name": "Narcissus Can Food - Spiced Pork Cubes",
+                "price": "$3.53"
+            },
+            {
+                "name": "Golden Bridge Chicken Luncheon Meat - Original",
+                "price": "$4.58"
+            },
+            {
+                "name": "Highway Pork Luncheon Meat",
+                "price": "$2.9"
+            },
+            {
+                "name": "Narcissus Can Food - Stewed Pork",
+                "price": "$3.82"
+            },
+            {
+                "name": "Narcissus Can Food - Minced Pork with Bean Paste",
+                "price": "$1.68"
+            }
+        ],
+        "Canned Sardines & Mackerels": [
+            {
+                "name": "Ayam Brand Sardines in Tomato Sauce",
+                "price": "$4.99"
+            },
+            {
+                "name": "Ayam Brand Sardines in Tomato Sauce",
+                "price": "$2.27"
+            },
+            {
+                "name": "Mili Fried Dace with Salted Blackbeans",
+                "price": "$3.01"
+            },
+            {
+                "name": "Ayam Brand Sardines in Tomato Sauce",
+                "price": "$3.73"
+            }
+        ],
+        "Canned Tuna & Salmon": [
+            {
+                "name": "Ayam Brand Tuna Flakes - Water (Light)",
+                "price": "$3.48"
+            },
+            {
+                "name": "Ayam Brand Tasty Tuna - Chili (Spiciness Level 3)",
+                "price": "$3.28"
+            },
+            {
+                "name": "Ayam Brand Tuna Chunks - Water",
+                "price": "$3.48"
+            },
+            {
+                "name": "Ayam Brand Tuna - Chili Light",
+                "price": "$3.28"
+            },
+            {
+                "name": "Ayam Brand Tuna Flakes - Extra Virgin Olive Oil (Omega 3)",
+                "price": "$3.48"
+            }
+        ],
+        "Canned Vegetables": [
+            {
+                "name": "Narcissus Can Food - Whole Mushrooms",
+                "price": "$1.66"
+            },
+            {
+                "name": "Hosen Whole Mushroom",
+                "price": "$1.48"
+            },
+            {
+                "name": "AAA Preserved Vegetables - Pickled Lettuce",
+                "price": "$1.66"
+            },
+            {
+                "name": "Del Monte Fresh Cut Golden Sweet Corn - Whole Kernel (Box)",
+                "price": "$1.97"
+            },
+            {
+                "name": "Narcissus Can Food - Braised Peanuts",
+                "price": "$0.86"
+            },
+            {
+                "name": "Narcissus Can Food - Whole Mushrooms",
+                "price": "$1.12"
+            },
+            {
+                "name": "Mili Braised Peanuts",
+                "price": "$0.75"
+            },
+            {
+                "name": "Mili Whole Mushrooms",
+                "price": "$1.43"
+            },
+            {
+                "name": "Hosen Unpeel Straw Mushroom",
+                "price": "$1.48"
+            },
+            {
+                "name": "Hunt's Diced Tomato",
+                "price": "$2.98"
+            },
+            {
+                "name": "Narcissus Can Food - Mushrooms Pieces & Stems",
+                "price": "$1.43"
+            }
+        ],
+        "Granola, Muesli & Oats": [
+            {
+                "name": "FairPrice Rolled Oats",
+                "price": "$4.8"
+            },
+            {
+                "name": "Quaker 100% Wholegrain Oatmeal Refill - Instant",
+                "price": "$3.41"
+            }
+        ],
+        "Instant Cereals": [
+            {
+                "name": "Nestle Nestum 3-in-1 Wholegrain Beverage - Original",
+                "price": "$4.94"
+            }
+        ],
+        "Instant Cups": [
+            {
+                "name": "Nissin Instant Cup Noodles - Tom Yam Seafood",
+                "price": "$1.66"
+            },
+            {
+                "name": "Nissin Instant Cup Noodles - Chicken",
+                "price": "$1.66"
+            },
+            {
+                "name": "Nissin Instant Cup Noodles - Seafood",
+                "price": "$1.66"
+            },
+            {
+                "name": "Nissin Instant Cup Noodles - Laksa",
+                "price": "$1.66"
+            },
+            {
+                "name": "Nongshim Instant Cup Noodle - Spicy",
+                "price": "$1.53"
+            },
+            {
+                "name": "Nissin Instant Cup Noodles - Kyushu White",
+                "price": "$1.66"
+            },
+            {
+                "name": "Nissin Instant Cup Noodles - Spicy Seafood",
+                "price": "$1.66"
+            },
+            {
+                "name": "Myojo Instant Bowl Noodles - Chicken Abalone",
+                "price": "$1.37"
+            },
+            {
+                "name": "Nissin Instant Cup Noodles - Mushroom Chicken",
+                "price": "$1.66"
+            },
+            {
+                "name": "Myojo Instant Bowl Noodles - Thai Tom Yam",
+                "price": "$1.37"
+            },
+            {
+                "name": "Nissin Instant Cup Noodles - Chili Crab",
+                "price": "$1.66"
+            },
+            {
+                "name": "Myojo Instant Bowl Noodles - Chicken",
+                "price": "$1.37"
+            }
+        ],
+        "Instant Noodles": [
+            {
+                "name": "Maggi 2-Minute Instant Noodles - Curry",
+                "price": "$2.67"
+            },
+            {
+                "name": "Ibumie Mi Goreng Instant Noodles - Original",
+                "price": "$2.37"
+            },
+            {
+                "name": "Maggi Big 2-Minute Instant Noodles - Curry",
+                "price": "$3.63"
+            },
+            {
+                "name": "Nissin Instant Noodles - Sesame Oil",
+                "price": "$3.01"
+            },
+            {
+                "name": "Myojo Instant Noodles - Chicken Abalone",
+                "price": "$2.67"
+            },
+            {
+                "name": "Myojo Instant Noodles - Ramen Char Mee",
+                "price": "$2.67"
+            },
+            {
+                "name": "Indomie Mi Goreng Instant Noodles - Original",
+                "price": "$2.63"
+            },
+            {
+                "name": "Myojo Instant Noodles - Chicken Tanmen",
+                "price": "$2.67"
+            },
+            {
+                "name": "Unif Tung-1 Instant Noodles - Chicken & Abalone",
+                "price": "$2.65"
+            },
+            {
+                "name": "Indomie Instant Noodles - Soto",
+                "price": "$2.65"
+            },
+            {
+                "name": "Myojo Instant Noodles - Mee Poh Dry",
+                "price": "$2.67"
+            },
+            {
+                "name": "Maggi 2-Minute Instant Noodles - Kari Letup",
+                "price": "$2.67"
+            },
+            {
+                "name": "Mi Sedaap Fried Instant Noodles - Original",
+                "price": "$2.82"
+            },
+            {
+                "name": "Nissin Instant Noodles - Chicken",
+                "price": "$3.01"
+            },
+            {
+                "name": "Indomie Mi Goreng Instant Noodles - Hot & Spicy",
+                "price": "$2.63"
+            },
+            {
+                "name": "Maggi Big 2-Minute Instant Noodles - Chicken",
+                "price": "$3.63"
+            }
+        ],
+        "Jams, Spreads & Honey": [
+            {
+                "name": "FairPrice Peanut Butter - Creamy",
+                "price": "$4.24"
+            }
+        ],
+        "Kaya": [
+            {
+                "name": "FairPrice Nonya Kaya",
+                "price": "$3.34"
+            }
+        ],
+        "Kids Cereals": [
+            {
+                "name": "Nestle Cereal - Variety School Pack",
+                "price": "$4.49"
+            }
+        ],
+        "Pancake Mix": [
+            {
+                "name": "Betty Crocker Pancake Mix - Butter Milk",
+                "price": "$3.97"
+            }
+        ],
+        "Ready-to-Consume": [
+            {
+                "name": "Indomie Mi Goreng Instant Noodles - Special",
+                "price": "$2.63"
+            },
+            {
+                "name": "Maggi 2-Minute Instant Noodles - Asam Laksa",
+                "price": "$2.67"
+            }
+        ],
+        "Savoury Spread": [
+            {
+                "name": "Ayam Brand Tuna Mayonnaise",
+                "price": "$3.28"
+            }
+        ]
+    },
+    "Frozen": {
+        "Beef Meatball": [
+            {
+                "name": "Armiya Frozen Beef Meat Ball",
+                "price": "$2.86"
+            }
+        ],
+        "Dumplings & Gyoza": [
+            {
+                "name": "Nan Xiang Frozen Dumplings - Cabbage Pork",
+                "price": "$4.58"
+            },
+            {
+                "name": "Nan Xiang Frozen Dumpling - Chives Pork",
+                "price": "$4.58"
+            },
+            {
+                "name": "Golden Chef Dumpling - Cabbage & Pork",
+                "price": "$4.59"
+            }
+        ],
+        "Franks & Sausages": [
+            {
+                "name": "Farmland Frozen Chicken Franks",
+                "price": "$1.98"
+            }
+        ],
+        "Fries, Wedges & Hash Browns": [
+            {
+                "name": "FairPrice Frozen French Fries - Straight Cut",
+                "price": "$4.14"
+            }
+        ],
+        "Frozen Chicken & Poultry": [
+            {
+                "name": "Sadia Frozen Chicken Drumsticks",
+                "price": "$4.95"
+            },
+            {
+                "name": "Seara Frozen Chicken Wing Sticks",
+                "price": "$4.84"
+            }
+        ],
+        "Frozen Dim Sum": [
+            {
+                "name": "Oriental Fortune Frozen Mantou - Pandan",
+                "price": "$2.8"
+            },
+            {
+                "name": "Oriental Fortune Frozen Mantou - Chocolate",
+                "price": "$2.8"
+            }
+        ],
+        "Frozen Meat": [
+            {
+                "name": "FairPrice Frozen Chicken Franks - Skinless",
+                "price": "$1.48"
+            }
+        ],
+        "Frozen Pork": [
+            {
+                "name": "Porkee Frozen Pork - Minced Pork",
+                "price": "$4.69"
+            },
+            {
+                "name": "Yummy Fresh Frozen Meat - Minced Pork",
+                "price": "$4.19"
+            }
+        ],
+        "Ice Cream": [
+            {
+                "name": "FairPrice Kool Potong Ice Cream - Red Bean",
+                "price": "$3.23"
+            }
+        ],
+        "Ice Cream Packs": [
+            {
+                "name": "Fairprice Potong Ice Cream - Coconut",
+                "price": "$3.99"
+            }
+        ],
+        "Meatballs & Others": [
+            {
+                "name": "BoBo Frozen Chicken Meat Ball - Cheese",
+                "price": "$4.38"
+            }
+        ],
+        "Nuggets": [
+            {
+                "name": "Farmland Frozen Chicken Nuggets - Original",
+                "price": "$4.38"
+            },
+            {
+                "name": "Farmland Frozen Chicken Nuggets - Hot and Spicy",
+                "price": "$4.38"
+            }
+        ],
+        "Otah & Satay": [
+            {
+                "name": "WK Muar Fish Otah - Chunky",
+                "price": "$4.35"
+            }
+        ]
+    },
+    "Fruits Vegetables": {
+        "Apples & Pears": [
+            {
+                "name": "China Fuji Apples",
+                "price": "$3.25"
+            },
+            {
+                "name": "China Premium Fuji Apple",
+                "price": "$4.85"
+            },
+            {
+                "name": "South Africa Candy Apple",
+                "price": "$1.8"
+            },
+            {
+                "name": "Pears Bonanza Australia Packham Pear",
+                "price": "$4.95"
+            }
+        ],
+        "Asparagus & Sprouts": [
+            {
+                "name": "Sakura Bean Sprouts",
+                "price": "$1.73"
+            },
+            {
+                "name": "Pasar Singapore Bean Sprouts",
+                "price": "$0.92"
+            },
+            {
+                "name": "Pasar Asparagus Fine",
+                "price": "$2.65"
+            }
+        ],
+        "Beans & Peas": [
+            {
+                "name": "Simply Finest French Bean",
+                "price": "$2.15"
+            },
+            {
+                "name": "Pasar Long Bean ",
+                "price": "$1.2"
+            },
+            {
+                "name": "Simply Finest Long Bean",
+                "price": "$1.57"
+            },
+            {
+                "name": "Pasar French Bean",
+                "price": "$2.04"
+            }
+        ],
+        "Berries & Cherries": [
+            {
+                "name": "Fresh Blueberries",
+                "price": "$3.9"
+            }
+        ],
+        "Brinjals & Gourds": [
+            {
+                "name": "Go Fresh Pearl Brinjal",
+                "price": "$2.4"
+            }
+        ],
+        "Broccoli & Cauliflowers": [
+            {
+                "name": "Orgo Fresh Royal Broccoli",
+                "price": "$3.98"
+            },
+            {
+                "name": "Orgo Fresh Fresh Broccoli",
+                "price": "$3.48"
+            },
+            {
+                "name": "Yuan Zhen Yuan Cauliflower China",
+                "price": "$2.95"
+            }
+        ],
+        "Cabbages & Lettuces": [
+            {
+                "name": "Pasar Iceberg Lettuce",
+                "price": "$2.35"
+            },
+            {
+                "name": "Gold Beijing Cabbage",
+                "price": "$1.82"
+            },
+            {
+                "name": "Yuan Zhen Yuan Beijing Cabbage",
+                "price": "$2.97"
+            },
+            {
+                "name": "Vegeponics Pesticide-Free Lettuce",
+                "price": "$3.83"
+            }
+        ],
+        "Carrots": [
+            {
+                "name": "Pasar Prepacked Carrots ",
+                "price": "$0.95"
+            },
+            {
+                "name": "Sumich Fresh Carrots",
+                "price": "$0.95"
+            }
+        ],
+        "Celeries": [
+            {
+                "name": "Freshco China Fresh Celery",
+                "price": "$2.95"
+            }
+        ],
+        "Chillies & Capsicums": [
+            {
+                "name": "Pasar Red Chilli Padi",
+                "price": "$1.15"
+            },
+            {
+                "name": "Pasar Red Chili ",
+                "price": "$1.65"
+            },
+            {
+                "name": "Thygrace Traffic Light Premium Bell Pepper Capsicum",
+                "price": "$4.17"
+            },
+            {
+                "name": "Pasar Green Chili",
+                "price": "$1.55"
+            }
+        ],
+        "Corns": [
+            {
+                "name": "Pasar Sweet Corn",
+                "price": "$1.57"
+            },
+            {
+                "name": "Pasar Baby Corn",
+                "price": "$1.21"
+            }
+        ],
+        "Cucumbers & Lady Fingers": [
+            {
+                "name": "Malaysia Naturally Fresh Japanese Cucumber",
+                "price": "$2.4"
+            },
+            {
+                "name": "Simply Finest Lady Finger",
+                "price": "$1.36"
+            },
+            {
+                "name": "Pasar Japanese Cucumber ",
+                "price": "$1.21"
+            },
+            {
+                "name": "Sakura Japanese Cucumber",
+                "price": "$2.25"
+            },
+            {
+                "name": "Pasar Lady Finger",
+                "price": "$1.1"
+            }
+        ],
+        "Frozen Greens": [
+            {
+                "name": "FairPrice Frozen Edamame Salted Soy Beans",
+                "price": "$3.53"
+            }
+        ],
+        "Garlic, Ginger & Onions": [
+            {
+                "name": "Chef Yellow Onion - Large",
+                "price": "$2.1"
+            },
+            {
+                "name": "Chef Red Onion - Large",
+                "price": "$2.35"
+            },
+            {
+                "name": "Chef China Garlic - Pure White",
+                "price": "$3.3"
+            },
+            {
+                "name": "Premium Yellow Onion",
+                "price": "$2.42"
+            },
+            {
+                "name": "Simply Finest Old Ginger",
+                "price": "$2.15"
+            },
+            {
+                "name": "Premium Red Onion",
+                "price": "$2.6"
+            },
+            {
+                "name": "Chef China Old Garlic",
+                "price": "$2.1"
+            },
+            {
+                "name": "Orgo Fresh Garlic 1x5pcs",
+                "price": "$2.99"
+            },
+            {
+                "name": "Orgo Fresh Garlic with Large size",
+                "price": "$4.28"
+            },
+            {
+                "name": "Chef Red Onion - Small",
+                "price": "$2.55"
+            }
+        ],
+        "Leafy Vegetables": [
+            {
+                "name": "Chef Shanghai Green",
+                "price": "$1.57"
+            },
+            {
+                "name": "Simply Finest Spinach - Round",
+                "price": "$1.89"
+            },
+            {
+                "name": "Simply Finest Xiao Bai Cai",
+                "price": "$1.83"
+            },
+            {
+                "name": "Simply Finest Spinach - Red",
+                "price": "$1.89"
+            },
+            {
+                "name": "Chef Hong Kong Kailan",
+                "price": "$1.17"
+            },
+            {
+                "name": "China Shanghai Green Baby",
+                "price": "$1.97"
+            },
+            {
+                "name": "Simply Finest Baby Spinach",
+                "price": "$1.97"
+            },
+            {
+                "name": "Simply Finest Kang Kong",
+                "price": "$1.79"
+            },
+            {
+                "name": "Kok Fah Fresh Vegetable - Baby Spinach ",
+                "price": "$1.58"
+            },
+            {
+                "name": "Gold Pandan Leaves",
+                "price": "$0.75"
+            }
+        ],
+        "Mushrooms": [
+            {
+                "name": "Hokto Mushroom - Bunashimeji",
+                "price": "$1.59"
+            },
+            {
+                "name": "Pasar White Button Mushroom",
+                "price": "$3.5"
+            },
+            {
+                "name": "Pasar Enoki Mushroom",
+                "price": "$1.4"
+            },
+            {
+                "name": "Hokto Mushroom - White Shimeiji",
+                "price": "$1.59"
+            },
+            {
+                "name": "Join Hing King Oyster Mushroom",
+                "price": "$1.38"
+            },
+            {
+                "name": "Pasar Swiss Brown Mushroom",
+                "price": "$4.2"
+            },
+            {
+                "name": "Pasar Fresh Oyster Mushroom",
+                "price": "$1.45"
+            }
+        ],
+        "Potatoes & Roots": [
+            {
+                "name": "USA Russet Potato",
+                "price": "$3.95"
+            },
+            {
+                "name": "Orgo Fresh Potato",
+                "price": "$3"
+            },
+            {
+                "name": "Sumich Gourmet White Potatoes",
+                "price": "$3.3"
+            },
+            {
+                "name": "Holland Potato (China)",
+                "price": "$1.65"
+            },
+            {
+                "name": "China Holland Potato",
+                "price": "$1.5"
+            },
+            {
+                "name": "Nature's Best Brastagi Potatoes - Granola (Washed)",
+                "price": "$3.95"
+            },
+            {
+                "name": "Vietnam Prepacked Japanese Sweet Potato",
+                "price": "$2.8"
+            }
+        ],
+        "Spices & Herbs": [
+            {
+                "name": "Pasar Thailand Spring Onion",
+                "price": "$1.6"
+            },
+            {
+                "name": "Pasar Malaysia Spring Onion",
+                "price": "$1.63"
+            },
+            {
+                "name": "Pasar Thai Chinese Parsley",
+                "price": "$1.35"
+            },
+            {
+                "name": "Pasar Chinese Parsley",
+                "price": "$1.2"
+            }
+        ],
+        "Tomatoes": [
+            {
+                "name": "Fresh Tomatoes",
+                "price": "$1.82"
+            },
+            {
+                "name": "ThyGrace Marketing Honey Cherry Tomato",
+                "price": "$2.1"
+            },
+            {
+                "name": "Ping Pong Tomato Queen - Red Honey (Thailand)",
+                "price": "$2.3"
+            },
+            {
+                "name": "Pasar Cherry Tomatoes ",
+                "price": "$2"
+            },
+            {
+                "name": "Pasar Cherry Tomato",
+                "price": "$3.84"
+            }
+        ],
+        "Tropical Fruits": [
+            {
+                "name": "Sumifru Philippines Banana",
+                "price": "$2.45"
+            },
+            {
+                "name": "Pasar Malaysia Seedless Guava",
+                "price": "$3.35"
+            },
+            {
+                "name": "Pasar Thai Young Coconut",
+                "price": "$2.2"
+            },
+            {
+                "name": "Pineapple",
+                "price": "$2.95"
+            },
+            {
+                "name": "Fresh Mini Thailand Watermelon",
+                "price": "$4.95"
+            },
+            {
+                "name": "YayaPapaya Aloha Banana",
+                "price": "$3.98"
+            },
+            {
+                "name": "Fresh Hong Kong Papaya - L",
+                "price": "$3.95"
+            }
+        ]
+    },
+    "Health Wellness": {
+        "Antigen Rapid Test (ART)": [
+            {
+                "name": "All Test Sars-CoV-2 Antigen Rapid Test - Nasal Swab",
+                "price": "$3.8"
+            }
+        ],
+        "Light Bladder Leakage Pads": [
+            {
+                "name": "Poise Liners For Bladder Leakage - Extra Long (21.5cm)",
+                "price": "$4.75"
+            },
+            {
+                "name": "TENA Wet Wipes",
+                "price": "$3.62"
+            },
+            {
+                "name": "Poise Liners For Bladder Leakage - Regular (19cm)",
+                "price": "$4.75"
+            },
+            {
+                "name": "Poise Pads For Bladder Leakage - Extra Plus (36.5cm)",
+                "price": "$4.75"
+            },
+            {
+                "name": "Poise Pads For Bladder Leakage - Regular (24.8cm)",
+                "price": "$4.75"
+            },
+            {
+                "name": "Poise Pads For Bladder Leakage - Extra (31.5cm)",
+                "price": "$4.75"
+            }
+        ],
+        "Masks": [
+            {
+                "name": "Skypro Classic Surgical Mask - 3 Ply",
+                "price": "$3.95"
+            }
+        ],
+        "Traditional Ointments": [
+            {
+                "name": "Cap Limau Yu Yee Medicated Oil",
+                "price": "$3.18"
+            }
+        ]
+    },
+    "Housebrand 1": {
+        "Asparagus & Sprouts": [
+            {
+                "name": "Pasar Singapore Bean Sprouts",
+                "price": "$0.92"
+            },
+            {
+                "name": "Pasar Asparagus Fine",
+                "price": "$2.65"
+            }
+        ],
+        "Baking Essentials": [
+            {
+                "name": "FairPrice Pure Cane Sugar - Fine Grain",
+                "price": "$1.8"
+            },
+            {
+                "name": "FairPrice Natural Coconut Cream",
+                "price": "$0.92"
+            }
+        ],
+        "Baking Needs": [
+            {
+                "name": "FairPrice Corn Flour",
+                "price": "$1.01"
+            }
+        ],
+        "Bathroom Tissues": [
+            {
+                "name": "FairPrice DeluxSoft Bathroom Tissue (3ply)",
+                "price": "$4.64"
+            }
+        ],
+        "Beans & Peas": [
+            {
+                "name": "Pasar Long Bean ",
+                "price": "$1.2"
+            },
+            {
+                "name": "Pasar French Bean",
+                "price": "$2.04"
+            }
+        ],
+        "Breads": [
+            {
+                "name": "FairPrice White Bread - Enriched",
+                "price": "$1.95"
+            },
+            {
+                "name": "FairPrice Bread - Wholemeal",
+                "price": "$2.3"
+            }
+        ],
+        "Butter": [
+            {
+                "name": "Fairprice Unsalted Butter",
+                "price": "$4.99"
+            }
+        ],
+        "Carrots": [
+            {
+                "name": "Pasar Prepacked Carrots ",
+                "price": "$0.95"
+            }
+        ],
+        "Chillies & Capsicums": [
+            {
+                "name": "Pasar Red Chilli Padi",
+                "price": "$1.15"
+            },
+            {
+                "name": "Pasar Red Chili ",
+                "price": "$1.65"
+            },
+            {
+                "name": "Pasar Green Chili",
+                "price": "$1.55"
+            }
+        ],
+        "Cleaning Products": [
+            {
+                "name": "Fairprice Bleach - Extra White",
+                "price": "$4.33"
+            }
+        ],
+        "Coconut Water": [
+            {
+                "name": "FairPrice 100% Coconut Water",
+                "price": "$3.56"
+            }
+        ],
+        "Corns": [
+            {
+                "name": "Pasar Sweet Corn",
+                "price": "$1.57"
+            },
+            {
+                "name": "Pasar Baby Corn",
+                "price": "$1.21"
+            }
+        ],
+        "Cucumbers & Lady Fingers": [
+            {
+                "name": "Pasar Japanese Cucumber ",
+                "price": "$1.21"
+            },
+            {
+                "name": "Pasar Lady Finger",
+                "price": "$1.1"
+            }
+        ],
+        "Dry & Wet Wipes": [
+            {
+                "name": "FairPrice Anti-Bacterial Wet Wipes",
+                "price": "$4.29"
+            },
+            {
+                "name": "FairPrice Anti-Bacterial Wet Wipes",
+                "price": "$4.99"
+            }
+        ],
+        "Facial Tissues": [
+            {
+                "name": "FairPrice Facial Tissues - Soft Pack (2ply)",
+                "price": "$3.84"
+            },
+            {
+                "name": "FairPrice Facial Tissues - Extra Soft & Thick (3 ply)",
+                "price": "$4.8"
+            },
+            {
+                "name": "FairPrice Soft White Facial Tissues - Packet",
+                "price": "$3.26"
+            },
+            {
+                "name": "FairPrice 3ply Pocket Facial Tissue",
+                "price": "$3.99"
+            }
+        ],
+        "Flour": [
+            {
+                "name": "FairPrice Plain Flour",
+                "price": "$1.98"
+            }
+        ],
+        "Fresh Eggs": [
+            {
+                "name": "Pasar Fresh Eggs",
+                "price": "$2.9"
+            },
+            {
+                "name": "Pasar Fresh Eggs - Large",
+                "price": "$3.78"
+            },
+            {
+                "name": "Pasar Singapore Fresh Eggs",
+                "price": "$3.34"
+            }
+        ],
+        "Frozen Crab Sticks & Fish Balls": [
+            {
+                "name": "FairPrice Frozen Crab Sticks",
+                "price": "$1.89"
+            }
+        ],
+        "Frozen Greens": [
+            {
+                "name": "FairPrice Frozen Edamame Salted Soy Beans",
+                "price": "$3.53"
+            }
+        ],
+        "Frozen Meat": [
+            {
+                "name": "FairPrice Frozen Chicken Franks - Skinless",
+                "price": "$1.48"
+            }
+        ],
+        "Granulated Sugar": [
+            {
+                "name": "FairPrice Pure Cane Sugar - Fine Grain",
+                "price": "$3.36"
+            }
+        ],
+        "Ham & Salami": [
+            {
+                "name": "FairPrice Breakfast Ham",
+                "price": "$2.98"
+            }
+        ],
+        "Hand Soap": [
+            {
+                "name": "FairPrice Moisturising Hand Soap Refill - Violet & Jasmine",
+                "price": "$2.75"
+            },
+            {
+                "name": "FairPrice Moisturising Hand Soap - Fresh Mint & Rosemary",
+                "price": "$3.01"
+            },
+            {
+                "name": "FairPrice Moisturising Hand Soap - Violet & Jasmine",
+                "price": "$3.01"
+            }
+        ],
+        "Ice Cream": [
+            {
+                "name": "FairPrice Kool Potong Ice Cream - Red Bean",
+                "price": "$3.23"
+            }
+        ],
+        "Ice Cream Packs": [
+            {
+                "name": "Fairprice Potong Ice Cream - Coconut",
+                "price": "$3.99"
+            }
+        ],
+        "Kaya": [
+            {
+                "name": "FairPrice Nonya Kaya",
+                "price": "$3.34"
+            }
+        ],
+        "Kitchen Towels": [
+            {
+                "name": "FairPrice Premium Kitchen Towel Rolls",
+                "price": "$4.59"
+            }
+        ],
+        "Leafy Vegetables": [
+            {
+                "name": "Pasar Baby Kailan",
+                "price": "$1.8"
+            }
+        ],
+        "Mushrooms": [
+            {
+                "name": "Pasar White Button Mushroom",
+                "price": "$3.5"
+            },
+            {
+                "name": "Pasar Enoki Mushroom",
+                "price": "$1.4"
+            },
+            {
+                "name": "Pasar Swiss Brown Mushroom",
+                "price": "$4.2"
+            },
+            {
+                "name": "Pasar Fresh Oyster Mushroom",
+                "price": "$1.45"
+            }
+        ],
+        "Noodles": [
+            {
+                "name": "Fairprice Fresh Udon Valuepack",
+                "price": "$2.93"
+            }
+        ],
+        "Potato Chips & Crisps": [
+            {
+                "name": "FairPrice Potato Chips - Original",
+                "price": "$1.2"
+            },
+            {
+                "name": "FairPrice Potato Chips - Sour Cream & Onion",
+                "price": "$1.2"
+            },
+            {
+                "name": "FairPrice Potato Chips - Hot & Spicy",
+                "price": "$1.2"
+            },
+            {
+                "name": "Fairprice Potato Chips - Truffle",
+                "price": "$1.2"
+            },
+            {
+                "name": "FairPrice Potato Chips - Original",
+                "price": "$2.73"
+            }
+        ],
+        "Salt": [
+            {
+                "name": "FairPrice Premium Quality Fine Salt Box",
+                "price": "$0.55"
+            },
+            {
+                "name": "FairPrice Premium Quality Fine Salt",
+                "price": "$0.5"
+            }
+        ],
+        "Sausages & Bacon": [
+            {
+                "name": "FairPrice Bacon - Streaky",
+                "price": "$4.89"
+            }
+        ],
+        "Spices & Herbs": [
+            {
+                "name": "Pasar Thailand Spring Onion",
+                "price": "$1.6"
+            },
+            {
+                "name": "Pasar Malaysia Spring Onion",
+                "price": "$1.63"
+            },
+            {
+                "name": "Pasar Thai Chinese Parsley",
+                "price": "$1.35"
+            },
+            {
+                "name": "Pasar Chinese Parsley",
+                "price": "$1.2"
+            }
+        ],
+        "Sponges & Scrubbers": [
+            {
+                "name": "Fairprice Scouring Sponge ",
+                "price": "$2.75"
+            }
+        ],
+        "Tomatoes": [
+            {
+                "name": "Pasar Cherry Tomatoes ",
+                "price": "$2"
+            },
+            {
+                "name": "Pasar Cherry Tomato",
+                "price": "$3.84"
+            }
+        ],
+        "Tropical Fruits": [
+            {
+                "name": "Pasar Malaysia Seedless Guava",
+                "price": "$3.35"
+            },
+            {
+                "name": "Pasar Thai Young Coconut",
+                "price": "$2.2"
+            }
+        ],
+        "UHT Milk": [
+            {
+                "name": "FairPrice UHT Milk - Full Cream",
+                "price": "$2.05"
+            },
+            {
+                "name": "FairPrice UHT Kids Full Cream Packet Milk - Fresh Milk",
+                "price": "$4.23"
+            },
+            {
+                "name": "FairPrice UHT Milk - Low Fat",
+                "price": "$2.05"
+            }
+        ],
+        "Wraps, Naans & Flatbreads": [
+            {
+                "name": "FairPrice Frozen Roti Prata",
+                "price": "$2.17"
+            }
+        ]
+    },
+    "Household": {
+        "Baking Paper, Foil, Wrap": [
+            {
+                "name": "Diamond Aluminum Foil (25 square feet)",
+                "price": "$2.55"
+            }
+        ],
+        "Bathroom Cleaners": [
+            {
+                "name": "Magiclean Bathroom Cleaner Refill - Refreshing Lemon",
+                "price": "$3.77"
+            },
+            {
+                "name": "Magiclean Bathroom & Toilet Cleaner Refill - Lavender Fresh",
+                "price": "$4.99"
+            },
+            {
+                "name": "Magiclean Dual Power Toilet Cleaner - Ocean Fresh",
+                "price": "$3.97"
+            }
+        ],
+        "Bathroom Tissues": [
+            {
+                "name": "FairPrice DeluxSoft Bathroom Tissue (3ply)",
+                "price": "$4.64"
+            }
+        ],
+        "Bleaches": [
+            {
+                "name": "Smart Choice Bleach",
+                "price": "$2.42"
+            },
+            {
+                "name": "Kao Bleach Liquid - White",
+                "price": "$4.38"
+            }
+        ],
+        "Cleaning Products": [
+            {
+                "name": "Fairprice Bleach - Extra White",
+                "price": "$4.33"
+            }
+        ],
+        "Dishwashing Liquids": [
+            {
+                "name": "Mama Lemon Dishwashing Liquid Refill - Natural Lemon",
+                "price": "$4.99"
+            },
+            {
+                "name": "Mama Lemon Gold Dishwashing Liquid Refill - Natural Lemon",
+                "price": "$4.99"
+            },
+            {
+                "name": "SmartChoice Dishwashing Liquid",
+                "price": "$4.08"
+            }
+        ],
+        "Dry & Wet Wipes": [
+            {
+                "name": "FairPrice Anti-Bacterial Wet Wipes",
+                "price": "$4.29"
+            },
+            {
+                "name": "FairPrice Anti-Bacterial Wet Wipes",
+                "price": "$4.99"
+            }
+        ],
+        "Fabric Conditioners": [
+            {
+                "name": "Softlan Fabric Conditioner Softener Refill - Lavender Fresh",
+                "price": "$3.53"
+            },
+            {
+                "name": "Softlan Fabric Conditioner Softener Refill - Spring Fresh",
+                "price": "$3.53"
+            },
+            {
+                "name": "Softlan Fabric Conditioner Softener Refill - Floral Fantasy",
+                "price": "$3.53"
+            }
+        ],
+        "Facial Tissues": [
+            {
+                "name": "FairPrice Facial Tissues - Soft Pack (2ply)",
+                "price": "$3.84"
+            },
+            {
+                "name": "FairPrice Facial Tissues - Soft Pack (2ply)",
+                "price": "$4.64"
+            },
+            {
+                "name": "FairPrice Facial Tissues - Extra Soft & Thick (3 ply)",
+                "price": "$4.8"
+            },
+            {
+                "name": "FairPrice Soft White Facial Tissues - Packet",
+                "price": "$3.26"
+            },
+            {
+                "name": "Beautex Pocket Tissue - Special (3ply)",
+                "price": "$4.63"
+            },
+            {
+                "name": "FairPrice 3ply Pocket Facial Tissue",
+                "price": "$3.99"
+            }
+        ],
+        "Glass Cleaners": [
+            {
+                "name": "Magiclean Glass Cleaner Refill  ",
+                "price": "$2.04"
+            }
+        ],
+        "Kitchen Cleaners": [
+            {
+                "name": "Magiclean Kitchen Cleaner Refill - Refreshing Lime",
+                "price": "$3.77"
+            }
+        ],
+        "Kitchen Towels": [
+            {
+                "name": "FairPrice Premium Kitchen Towel Rolls",
+                "price": "$4.59"
+            },
+            {
+                "name": "SmartChoice Kitchen Towels ",
+                "price": "$3.88"
+            },
+            {
+                "name": "KCA Tissue Rolls - Kitchen",
+                "price": "$4.8"
+            },
+            {
+                "name": "PurSoft Kitchen Towel Soft Pack (1 ply)",
+                "price": "$2.25"
+            }
+        ],
+        "Liquid Detergents": [
+            {
+                "name": "Top Concentrated Liquid Detergent Refill - Anti-Bacterial",
+                "price": "$4.84"
+            },
+            {
+                "name": "Top Concentrated Liquid Detergent Refill - Super Low Suds",
+                "price": "$4.84"
+            },
+            {
+                "name": "Top Concentrated Liquid Detergent Refill - Super Colour",
+                "price": "$4.84"
+            },
+            {
+                "name": "Top Concentrated Liquid Detergent Refill - Anti-Bacterial",
+                "price": "$4.84"
+            },
+            {
+                "name": "Top Concentrated Liquid Detergent Refill - Blooming Freshness",
+                "price": "$4.84"
+            }
+        ],
+        "Multi-Purpose Cleaners": [
+            {
+                "name": "Cif Cream Surface Cleanser - Lemon",
+                "price": "$2.13"
+            },
+            {
+                "name": "Cif Cream Surface Cleanser - Original",
+                "price": "$2.13"
+            }
+        ],
+        "Sponges & Scrubbers": [
+            {
+                "name": "Fairprice Scouring Sponge ",
+                "price": "$2.75"
+            },
+            {
+                "name": "3M Scotch-Brite Scrub Sponges - Tough Clean",
+                "price": "$4.34"
+            }
+        ]
+    },
+    "Meat Seafood": {
+        "Beef Meatball": [
+            {
+                "name": "Armiya Frozen Beef Meat Ball",
+                "price": "$2.86"
+            }
+        ],
+        "Chilled Fish Balls & Fish Cakes": [
+            {
+                "name": "Ee Hui Fried Fishcake",
+                "price": "$2.32"
+            }
+        ],
+        "Fish & Seafood": [
+            {
+                "name": "FairPrice Breaded Scallop Cake",
+                "price": "$2.44"
+            }
+        ],
+        "Fish Balls & Fish Cakes": [
+            {
+                "name": "DoDo Big Fish Cake - Fried",
+                "price": "$3.15"
+            }
+        ],
+        "Fresh Pork": [
+            {
+                "name": "Fresh Australia Pork - Minced",
+                "price": "$4.14"
+            }
+        ],
+        "Frozen Breaded Seafood": [
+            {
+                "name": "FairPrice Frozen Tempura Fish Fillets",
+                "price": "$4.94"
+            }
+        ],
+        "Frozen Crab Sticks & Fish Balls": [
+            {
+                "name": "FairPrice Frozen Crab Sticks",
+                "price": "$1.89"
+            },
+            {
+                "name": "Okeanoss Frozen Shrimp Paste",
+                "price": "$4.9"
+            },
+            {
+                "name": "Ocean Fresh Delite Frozen Shrimp Paste",
+                "price": "$4.53"
+            },
+            {
+                "name": "Seawaves Frozen Premium Cuttlefish Ball",
+                "price": "$4.34"
+            }
+        ],
+        "Frozen Shellfish & Others": [
+            {
+                "name": "Catch Seafood Venus White Clam",
+                "price": "$4.95"
+            }
+        ],
+        "Meatballs & Others": [
+            {
+                "name": "Lion Dance Pork Ball",
+                "price": "$2.87"
+            },
+            {
+                "name": "Lion Dance Pork Ball - Mushroom",
+                "price": "$2.9"
+            }
+        ]
+    },
+    "Rice Noodles Cooking Ingredients": {
+        "Baking Essentials": [
+            {
+                "name": "FairPrice Pure Cane Sugar - Fine Grain",
+                "price": "$1.8"
+            },
+            {
+                "name": "FairPrice Natural Coconut Cream",
+                "price": "$0.92"
+            }
+        ],
+        "Baking Needs": [
+            {
+                "name": "FairPrice Corn Flour",
+                "price": "$1.01"
+            }
+        ],
+        "Baking Powder & Soda": [
+            {
+                "name": "Arm & Hammer Pure Baking Soda",
+                "price": "$1.77"
+            }
+        ],
+        "Broths & Stocks": [
+            {
+                "name": "Knorr Stock Cubes - Chicken",
+                "price": "$3.38"
+            },
+            {
+                "name": "Swanson Clear Chicken Broth",
+                "price": "$1.76"
+            }
+        ],
+        "Canned & Tetra Soups": [
+            {
+                "name": "Campbell's Condensed Soup - Cream of Mushroom",
+                "price": "$2.06"
+            }
+        ],
+        "Chili Sauce": [
+            {
+                "name": "Maggi Chili Sauce",
+                "price": "$2.97"
+            },
+            {
+                "name": "Heinz Chili Sauce",
+                "price": "$2.11"
+            }
+        ],
+        "Coconut Products": [
+            {
+                "name": "Australia's Own Organic Coconut Milk - Unsweetened",
+                "price": "$4.59"
+            },
+            {
+                "name": "Kara UHT Coconut Milk - Light",
+                "price": "$1.01"
+            },
+            {
+                "name": "Ayam Brand Coconut Milk",
+                "price": "$1.01"
+            }
+        ],
+        "Cooking Noodles": [
+            {
+                "name": "Koka Ezy Cook Plain Noodles",
+                "price": "$1.58"
+            }
+        ],
+        "Creamers": [
+            {
+                "name": "Marigold Evaporated Milk - King Of Kings (Full Cream)",
+                "price": "$2.52"
+            },
+            {
+                "name": "Milkmaid Sweetened Condensed Milk - Skimmed (Low Fat)",
+                "price": "$2.65"
+            },
+            {
+                "name": "Marigold Dawn Sweetened Beverage Creamer ",
+                "price": "$3.8"
+            }
+        ],
+        "Flour": [
+            {
+                "name": "Prima Flour Packet Flour - Plain",
+                "price": "$2.84"
+            },
+            {
+                "name": "Pagoda Pure Corn Flour",
+                "price": "$1.17"
+            },
+            {
+                "name": "FairPrice Plain Flour",
+                "price": "$1.98"
+            }
+        ],
+        "Granulated Sugar": [
+            {
+                "name": "SIS White Sugar - Fine Grain",
+                "price": "$2.08"
+            },
+            {
+                "name": "FairPrice Pure Cane Sugar - Fine Grain",
+                "price": "$3.36"
+            },
+            {
+                "name": "SIS Raw Sugar - Natural Granulated",
+                "price": "$4.26"
+            }
+        ],
+        "Light Soy Sauce": [
+            {
+                "name": "Tai Hua Light Soy Sauce - Standard (Big)",
+                "price": "$2.92"
+            },
+            {
+                "name": "Habhal's Kicap Manis (Soya Bean Sauce) - Sweet",
+                "price": "$4.08"
+            },
+            {
+                "name": "Lee Kum Kee Soy Sauce - Light",
+                "price": "$2.27"
+            }
+        ],
+        "Macaroni & Shells": [
+            {
+                "name": "San Remo Pasta - Elbows",
+                "price": "$2.73"
+            },
+            {
+                "name": "Naturel Organic Pasta - Macaroni",
+                "price": "$3.56"
+            }
+        ],
+        "Noodles": [
+            {
+                "name": "Fairprice Fresh Udon Valuepack",
+                "price": "$2.93"
+            }
+        ],
+        "Penne": [
+            {
+                "name": "San Remo Pasta - Penne",
+                "price": "$2.73"
+            }
+        ],
+        "Salt": [
+            {
+                "name": "Pagoda Fine Salt (Box)",
+                "price": "$0.7"
+            },
+            {
+                "name": "FairPrice Premium Quality Fine Salt Box",
+                "price": "$0.55"
+            },
+            {
+                "name": "FairPrice Premium Quality Fine Salt",
+                "price": "$0.5"
+            },
+            {
+                "name": "Pagoda Sea Salt - Fine",
+                "price": "$0.46"
+            },
+            {
+                "name": "Pagoda Pure Cooking Sea Salt",
+                "price": "$3.01"
+            }
+        ],
+        "Seasoning": [
+            {
+                "name": "Knorr Stock Cubes - Chicken (No Added MSG)",
+                "price": "$3.84"
+            }
+        ],
+        "Spaghetti & Linguine": [
+            {
+                "name": "San Remo Pasta - Spaghetti",
+                "price": "$2.73"
+            },
+            {
+                "name": "Barilla Italian Pasta - Spaghetti No.5",
+                "price": "$3.88"
+            },
+            {
+                "name": "San Remo Pasta - Instant Spaghetti",
+                "price": "$2.73"
+            }
+        ],
+        "Tomato Sauce": [
+            {
+                "name": "Maggi Tomato Sauce",
+                "price": "$2.57"
+            },
+            {
+                "name": "Del Monte 100% Natural Tomato Ketchup",
+                "price": "$1.61"
+            },
+            {
+                "name": "Heinz Tomato Ketchup",
+                "price": "$1.82"
+            }
+        ],
+        "Vermicelli": [
+            {
+                "name": "Tai Sun Rice Vermicelli",
+                "price": "$1.6"
+            },
+            {
+                "name": "A1 Instant Rice Vermicelli",
+                "price": "$3.36"
+            }
+        ],
+        "Vinegar": [
+            {
+                "name": "SmartChoice Artificial Vinegar",
+                "price": "$1.22"
+            }
+        ]
+    },
+    "Snacks Confectionery": {
+        "Chestnuts": [
+            {
+                "name": "FairPrice Roasted Chestnut",
+                "price": "$1.94"
+            }
+        ],
+        "Chocolate Cookies": [
+            {
+                "name": "Chipsmore Cookies Multipack - Original",
+                "price": "$4.64"
+            },
+            {
+                "name": "Ferrero Nutella Biscuit",
+                "price": "$4.84"
+            }
+        ],
+        "Corn Chips & Tortillas": [
+            {
+                "name": "Twisties Corn Snack - Cheeky Cheddar Cheese",
+                "price": "$2.79"
+            },
+            {
+                "name": "Twisties Corn Snack - Kaboom! BBQ Curry",
+                "price": "$2.79"
+            },
+            {
+                "name": "Oriental Super Ring Cheese Snack",
+                "price": "$1.31"
+            },
+            {
+                "name": "Doritos Tortilla Chip - Nacho Cheese",
+                "price": "$0.92"
+            }
+        ],
+        "Crackers": [
+            {
+                "name": "Julie's Crackers - Butter",
+                "price": "$2.94"
+            },
+            {
+                "name": "Hup Seng Crackers - Cream",
+                "price": "$3.03"
+            },
+            {
+                "name": "Ritz Crackers Box - Original",
+                "price": "$2.65"
+            },
+            {
+                "name": "Meiji Plain Crackers - Original",
+                "price": "$1.68"
+            },
+            {
+                "name": "Khong Guan Biscuits - Sultana",
+                "price": "$3.36"
+            },
+            {
+                "name": "Hup Seng Crackers - Sugar",
+                "price": "$3.03"
+            },
+            {
+                "name": "Hup Seng Crackers - Wholemeal",
+                "price": "$3.03"
+            },
+            {
+                "name": "Munchy's Lexus Sandwich Calcium Crackers - Vegetable",
+                "price": "$3.63"
+            }
+        ],
+        "Creamed & Filled": [
+            {
+                "name": "Oreo Sandwich Cookie Multipack - Vanilla",
+                "price": "$3.5"
+            },
+            {
+                "name": "Khong Guan Sandwich Biscuits - Lemon Puff",
+                "price": "$3.23"
+            },
+            {
+                "name": "Ritz Sandwich Biscuits Multipack - Cheese Cream",
+                "price": "$3.38"
+            },
+            {
+                "name": "Oreo Sandwich Cookies Multipack - Mildly Sweet",
+                "price": "$3.5"
+            },
+            {
+                "name": "Jack 'n Jill Dewberry Sandwich Biscuits - Blueberry",
+                "price": "$3.66"
+            },
+            {
+                "name": "Oreo Mini Sandwich Cookies Sharepack - Vanilla",
+                "price": "$3.87"
+            },
+            {
+                "name": "Oreo Sandwich Cookie Multipack - Chocolate",
+                "price": "$3.5"
+            },
+            {
+                "name": "Oreo Sandwich Cookie Multipack - Choco Banana",
+                "price": "$4.34"
+            }
+        ],
+        "Digestive & Marie": [
+            {
+                "name": "Khong Guan Biscuits - Marie (Premium)",
+                "price": "$2.79"
+            }
+        ],
+        "Dried & Preserved Fruits": [
+            {
+                "name": "Sun-Maid Natural California Raisins - Mini Pack",
+                "price": "$3.97"
+            }
+        ],
+        "Fish & Prawn Snacks": [
+            {
+                "name": "Calbee Prawn Crackers - Original",
+                "price": "$2.37"
+            }
+        ],
+        "Fruit & Vegetable Chips": [
+            {
+                "name": "Calbee Vegetable Fries Chips - Barbeque",
+                "price": "$1.6"
+            }
+        ],
+        "Hari Raya Snacks & Cookies": [
+            {
+                "name": "FairPrice Potato Chips - Seaweed",
+                "price": "$1.2"
+            }
+        ],
+        "Multi Pack Chocolates": [
+            {
+                "name": "Toblerone Tiny Chocolate Sharebag - Milk",
+                "price": "$4.8"
+            }
+        ],
+        "Oat Biscuits": [
+            {
+                "name": "Quaker Oats Cookies - Chocolate Chip",
+                "price": "$2.9"
+            },
+            {
+                "name": "Quaker Oats Cookies - Honey Nuts",
+                "price": "$2.9"
+            },
+            {
+                "name": "Quaker Oats Oatmeal Cookies - Raisins ",
+                "price": "$2.9"
+            }
+        ],
+        "Other Snacks": [
+            {
+                "name": "Mamee Noodle Snack - BBQ",
+                "price": "$2.7"
+            },
+            {
+                "name": "Mamee Noodle Snack - Chicken",
+                "price": "$2.7"
+            },
+            {
+                "name": "FairPrice Spin Crackers",
+                "price": "$2.34"
+            }
+        ],
+        "Potato Chips & Crisps": [
+            {
+                "name": "FairPrice Potato Chips - Original",
+                "price": "$1.2"
+            },
+            {
+                "name": "Pringles Potato Crisps - Sour Cream & Onion",
+                "price": "$3.5"
+            },
+            {
+                "name": "Pringles Potato Crisps - Original",
+                "price": "$3.5"
+            },
+            {
+                "name": "FairPrice Potato Chips - Sour Cream & Onion",
+                "price": "$1.2"
+            },
+            {
+                "name": "Calbee Crispy Potato Chips - Hot & Spicy",
+                "price": "$2.4"
+            },
+            {
+                "name": "FairPrice Potato Chips - Hot & Spicy",
+                "price": "$1.2"
+            },
+            {
+                "name": "Fairprice Potato Chips - Truffle",
+                "price": "$1.2"
+            },
+            {
+                "name": "Max's Farm Cassava Chips - Spicy",
+                "price": "$2.54"
+            },
+            {
+                "name": "FairPrice Potato Chips - Original",
+                "price": "$2.73"
+            },
+            {
+                "name": "Calbee Crispy Potato Chips - Hot & Spicy",
+                "price": "$2.4"
+            },
+            {
+                "name": "Win2 Baked Potato Crisp Crackers - Vegetable",
+                "price": "$2.22"
+            },
+            {
+                "name": "Jack 'n Jill Roller Coaster Potato Rings - Cheese",
+                "price": "$3.01"
+            },
+            {
+                "name": "FairPrice Potato Chips - Sour Cream & Onion",
+                "price": "$2.73"
+            },
+            {
+                "name": "FairPrice Potato Chips - Hot Chili Pepper & Lime ",
+                "price": "$2.52"
+            },
+            {
+                "name": "FairPrice Potato Chips - Chili",
+                "price": "$1.2"
+            },
+            {
+                "name": "Jack 'n Jill Roller Coaster Potato Rings -Barbecue",
+                "price": "$3.01"
+            },
+            {
+                "name": "Jack 'n Jill Potato Chips - Barbecue (Funpack)",
+                "price": "$3.05"
+            },
+            {
+                "name": "FairPrice Potato Chips - Cheese",
+                "price": "$1.2"
+            }
+        ],
+        "Pretzels & Biscuit Sticks": [
+            {
+                "name": "Mitsuya Tasty Biscuit Stick",
+                "price": "$1.9"
+            },
+            {
+                "name": "Lotte Pepero Stick Biscuits - Almond & Chocolate",
+                "price": "$1.53"
+            },
+            {
+                "name": "Meiji Yan Yan Stick Biscuits - Chocolate",
+                "price": "$1.37"
+            },
+            {
+                "name": "Glico Pocky Biscuit Sticks Share Pack - Chocolate",
+                "price": "$4.89"
+            }
+        ],
+        "Rice Crackers": [
+            {
+                "name": "Lucky Bin Bin Rice Crackers",
+                "price": "$2.54"
+            },
+            {
+                "name": "Want Want Rice Crackers - Shelly Senbei (Original)",
+                "price": "$3.01"
+            },
+            {
+                "name": "Want Want Rice Crackers - Seaweed",
+                "price": "$3.05"
+            }
+        ],
+        "Seaweed & Floss": [
+            {
+                "name": "Singlong Seasoned Seaweed - Perilla Oil",
+                "price": "$3.56"
+            },
+            {
+                "name": "Tao Kae Noi Grilled Seaweed Roll - Classic",
+                "price": "$2.78"
+            },
+            {
+                "name": "Bibigo Seaweed Flakes",
+                "price": "$3.56"
+            }
+        ],
+        "Snacks & Confectionery": [
+            {
+                "name": "Want Want Rice Crackers - Senbei",
+                "price": "$2.34"
+            },
+            {
+                "name": "McVities Digestives Biscuits",
+                "price": "$4.45"
+            },
+            {
+                "name": "Munchy's Oat Krunch Crackers - Dark Chocolate",
+                "price": "$3.78"
+            }
+        ],
+        "Wafers": [
+            {
+                "name": "Nutella B-ready Wafer Biscuit",
+                "price": "$3.93"
+            }
+        ]
+    }
+}

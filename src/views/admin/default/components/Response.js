@@ -1,14 +1,13 @@
+// Response.jsx
 import React from "react";
 import {
   Box,
   Flex,
   Text,
-  useColorModeValue,
 } from "@chakra-ui/react";
 import Card from "components/card/Card.js";
 
 export default function Response({ data, ...rest }) {
-  // Perform null check for data object
   if (!data || !data.DailySpendingAllocation) {
     return null; // Return null or placeholder content if data is not available
   }
@@ -50,6 +49,11 @@ export default function Response({ data, ...rest }) {
           )}
         </Flex>
       ))}
+      <Flex alignItems="center" w="100%" mb="20px">
+        <Text fontSize="lg" fontWeight="700">
+          Total for Meals: {Meals.TotalForMeals}
+        </Text>
+      </Flex>
 
       {/* Healthcare Section */}
       <Flex alignItems="center" w="100%" mb="30px">
@@ -57,7 +61,7 @@ export default function Response({ data, ...rest }) {
           Healthcare
         </Text>
       </Flex>
-      {Object.entries(Healthcare).map(([category, cost]) => (
+      {Healthcare && Object.entries(Healthcare).map(([category, cost]) => (
         <Flex key={category} alignItems="center" w="100%" flexDirection="column" mb="20px">
           <Text fontSize="lg" fontWeight="700" mb="10px">
             {category}
@@ -74,11 +78,13 @@ export default function Response({ data, ...rest }) {
           Transportation
         </Text>
       </Flex>
-      <Flex alignItems="center" w="100%" flexDirection="column" mb="20px">
-        <Text fontSize="lg" fontWeight="100">
-          {Transportation.DailyTransportation}
-        </Text>
-      </Flex>
+      {Transportation && (
+        <Flex alignItems="center" w="100%" flexDirection="column" mb="20px">
+          <Text fontSize="lg" fontWeight="100">
+            {Transportation.DailyTransportation}
+          </Text>
+        </Flex>
+      )}
 
       {/* Leisure Section */}
       <Flex alignItems="center" w="100%" mb="30px">
@@ -86,11 +92,13 @@ export default function Response({ data, ...rest }) {
           Leisure
         </Text>
       </Flex>
-      <Flex alignItems="center" w="100%" flexDirection="column" mb="20px">
-        <Text fontSize="lg" fontWeight="100">
-          {LeisureOther.LeisureOther}
-        </Text>
-      </Flex>
+      {LeisureOther && (
+        <Flex alignItems="center" w="100%" flexDirection="column" mb="20px">
+          <Text fontSize="lg" fontWeight="100">
+            {LeisureOther.LeisureOther}
+          </Text>
+        </Flex>
+      )}
 
       {/* Reserve Emergency Section */}
       <Flex alignItems="center" w="100%" mb="30px">
@@ -98,11 +106,13 @@ export default function Response({ data, ...rest }) {
           Reserve Emergency
         </Text>
       </Flex>
-      <Flex alignItems="center" w="100%" flexDirection="column" mb="20px">
-        <Text fontSize="lg" fontWeight="100">
-          {ReserveEmergency.ReserveEmergency}
-        </Text>
-      </Flex>
+      {ReserveEmergency && (
+        <Flex alignItems="center" w="100%" flexDirection="column" mb="20px">
+          <Text fontSize="lg" fontWeight="100">
+            {ReserveEmergency.ReserveEmergency}
+          </Text>
+        </Flex>
+      )}
 
       {/* Supermarket Section */}
       <Flex alignItems="center" w="100%" mb="30px">
@@ -110,7 +120,7 @@ export default function Response({ data, ...rest }) {
           Supermarket
         </Text>
       </Flex>
-      {Object.entries(Supermarket.items).map(([itemName, itemPrice]) => (
+      {Supermarket && Object.entries(Supermarket.items).map(([itemName, itemPrice]) => (
         <Flex key={itemName} alignItems="center" w="100%" flexDirection="column" mb="20px">
           <Text fontSize="lg" fontWeight="700" mb="10px">
             {itemName}
@@ -120,7 +130,6 @@ export default function Response({ data, ...rest }) {
           </Text>
         </Flex>
       ))}
-
       <Flex alignItems="center" w="100%" mb="20px">
         <Text fontSize="lg" fontWeight="700">
           Total for Supermarket: {Supermarket.Total}
@@ -133,11 +142,13 @@ export default function Response({ data, ...rest }) {
           Summary
         </Text>
       </Flex>
-      <Flex alignItems="center" w="100%" flexDirection="column" mb="20px">
-        <Text fontSize="lg" fontWeight="100">
-          Daily Spending Limit: {Summary.DailySpendingLimit}
-        </Text>
-      </Flex>
+      {Summary && (
+        <Flex alignItems="center" w="100%" flexDirection="column" mb="20px">
+          <Text fontSize="lg" fontWeight="100">
+            Daily Spending Limit: {Summary.DailySpendingLimit}
+          </Text>
+        </Flex>
+      )}
 
       {/* Note Section */}
       <Flex alignItems="center" w="100%" mb="30px">
@@ -145,11 +156,13 @@ export default function Response({ data, ...rest }) {
           Note
         </Text>
       </Flex>
-      <Flex alignItems="center" w="100%" flexDirection="column" mb="20px">
-        <Text fontSize="lg" fontWeight="100">
-          {Note.Notes}
-        </Text>
-      </Flex>
+      {Note && (
+        <Flex alignItems="center" w="100%" flexDirection="column" mb="20px">
+          <Text fontSize="lg" fontWeight="100">
+            {Note.Notes}
+          </Text>
+        </Flex>
+      )}
     </Card>
   );
 }

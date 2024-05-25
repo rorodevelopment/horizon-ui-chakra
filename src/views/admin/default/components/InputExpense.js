@@ -16,8 +16,7 @@ export default function InputExpense({ updateResponses }) {
   const [expenses, setExpenses] = useState('');
   const [healthcare, setHealthcare] = useState('');
 
-  const [response, setResponse] = useState('');
-  const [prompt, setPrompt] = useState('');
+  const [response, setResponse] = useState(''); // Define the setResponse state here
   const [loading, setLoading] = useState(false);
   const [test1, setTest1] = useState(null);
   const [test2, setTest2] = useState(null);
@@ -46,11 +45,10 @@ export default function InputExpense({ updateResponses }) {
 
     const apiKey = "sk-proj-SNb71jtuaPZ3AX5KOwXcT3BlbkFJL1VIRmf1FX8rTAjqp2Wh"; // Replace with your OpenAI API key
 
-    const promptText = "Based on the following details: Age: ${age}, Income: ${income}, Monthly Expenses: ${expenses}, Healthcare: ${healthcare}";
-    setPrompt(promptText);
+    const promptText = `Based on the following details: Age: ${age}, Income: ${income}, Monthly Expenses: ${expenses}, Healthcare: ${healthcare}`;
 
     const data = {
-      model: "gpt-4",
+      model: "gpt-4o",
       messages: [
         {
           role: "system",
@@ -62,6 +60,7 @@ export default function InputExpense({ updateResponses }) {
             for example if given the age 80 he might be prone to certain diseases based on the statistics in your database and account for them during budgeting, 
             generate a spending limit per day, 
             make it as precise as possible up to their meals in the day.
+            For the output for the Notes field please adhere strictly to the format of JSON not using special symbols.
             Minimize the expenses, but maximizes the nutrition value.
             Please account for this percentage
             {
@@ -169,7 +168,7 @@ export default function InputExpense({ updateResponses }) {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            Authorization: 'Bearer ${apiKey}',
+            Authorization: `Bearer ${apiKey}`,
           },
           body: JSON.stringify(data),
         }
@@ -180,12 +179,27 @@ export default function InputExpense({ updateResponses }) {
       }
 
       const result = await response.json();
-      const dailySpendingAllocationPart = result.choices[0].message.content.split('----------')[1];
-      setResponse(dailySpendingAllocationPart);
+      const messageContent = result.choices[0].message.content;
+      const dailySpendingAllocationPart = messageContent.split('----------')[1];
+      if (dailySpendingAllocationPart) {
+        try {
+          const parsedData = JSON.parse(dailySpendingAllocationPart);
+          setResponse(parsedData);
+          console.log(parsedData);
+          updateResponses(parsedData);
+        } catch (error) {
+          console.error("Error parsing JSON:", error);
+          setResponse("Error parsing data");
+        }
+      } else {
+        console.error("Invalid response format");
+        setResponse("Error fetching data");
+      }
       setLoading(false);
     } catch (error) {
       console.error("Error:", error);
       setResponse("Error fetching data");
+      setLoading(false);
     }
   };
 
@@ -239,7 +253,7 @@ export default function InputExpense({ updateResponses }) {
       {loading ? (
         <p>Loading...</p>
       ) : (
-        <p>Response: {response}</p>
+        <p></p>
       )}
     </Card>
   );

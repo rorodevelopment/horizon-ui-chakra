@@ -43,7 +43,7 @@ export default function InputExpense({ updateResponses }) {
   const fetchChatCompletion = async () => {
     setLoading(true);
 
-    const apiKey = "sk-proj-SNb71jtuaPZ3AX5KOwXcT3BlbkFJL1VIRmf1FX8rTAjqp2Wh"; // Replace with your OpenAI API key
+    const apiKey = "APIKEY"; // Replace with your OpenAI API key
 
     const promptText = `Based on the following details: Age: ${age}, Income: ${income}, Monthly Expenses: ${expenses}, Healthcare: ${healthcare}`;
 
